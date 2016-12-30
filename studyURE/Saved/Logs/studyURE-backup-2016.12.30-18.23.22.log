@@ -1,0 +1,1123 @@
+﻿Log file open, 12/30/16 17:39:10
+LogInit:Display: Running engine for game: studyURE
+LogPlatformFile: Not using cached read wrapper
+LogInit:Display: RandInit(-679387165) SRandInit(-679387165).
+LogTaskGraph: Started task graph with 5 named threads and 8 total threads with 1 sets of task threads.
+LogStats: Stats thread started at 0.082192
+LogPluginManager: Loaded Plugin Paper2D, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/2D/Paper2D/Paper2D.uplugin
+LogPluginManager: Loaded Plugin LightPropagationVolume, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Blendables/LightPropagationVolume/LightPropagationVolume.uplugin
+LogPluginManager: Loaded Plugin BlankPlugin, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/BlankPlugin/BlankPlugin.uplugin
+LogPluginManager: Loaded Plugin CodeLiteSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/CodeLiteSourceCodeAccess/CodeLiteSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin GitSourceControl, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/GitSourceControl/GitSourceControl.uplugin
+LogPluginManager: Loaded Plugin KDevelopSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/KDevelopSourceCodeAccess/KDevelopSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin NullSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/NullSourceCodeAccess/NullSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin OneSkyLocalizationService, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/OneSkyLocalizationService/OneSkyLocalizationService.uplugin
+LogPluginManager: Loaded Plugin PerforceSourceControl, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/PerforceSourceControl/PerforceSourceControl.uplugin
+LogPluginManager: Loaded Plugin SubversionSourceControl, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/SubversionSourceControl/SubversionSourceControl.uplugin
+LogPluginManager: Loaded Plugin UObjectPlugin, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/UObjectPlugin/UObjectPlugin.uplugin
+LogPluginManager: Loaded Plugin VisualStudioSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/VisualStudioSourceCodeAccess/VisualStudioSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin XCodeSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/XCodeSourceCodeAccess/XCodeSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin AudioCapture, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Editor/AudioCapture/AudioCapture.uplugin
+LogPluginManager: Loaded Plugin EpicSurvey, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Editor/EpicSurvey/EpicSurvey.uplugin
+LogPluginManager: Loaded Plugin MacGraphicsSwitching, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Editor/MacGraphicsSwitching/MacGraphicsSwitching.uplugin
+LogPluginManager: Loaded Plugin MobileLauncherProfileWizard, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Editor/MobileLauncherProfileWizard/MobileLauncherProfileWizard.uplugin
+LogPluginManager: Loaded Plugin PluginBrowser, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Editor/PluginBrowser/PluginBrowser.uplugin
+LogPluginManager: Loaded Plugin SpeedTreeImporter, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Editor/SpeedTreeImporter/SpeedTreeImporter.uplugin
+LogPluginManager: Loaded Plugin SuperSearchEditor, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Editor/SuperSearchEditor/SuperSearchEditor.uplugin
+LogPluginManager: Loaded Plugin AlembicImporter, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/AlembicImporter/AlembicImporter.uplugin
+LogPluginManager: Loaded Plugin BlueprintStats, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/BlueprintStats/BlueprintStats.uplugin
+LogPluginManager: Loaded Plugin CharacterAI, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/CharacterAI/CharacterAI.uplugin
+LogPluginManager: Loaded Plugin CodeEditor, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/CodeEditor/CodeEditor.uplugin
+LogPluginManager: Loaded Plugin CodeView, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/CodeView/CodeView.uplugin
+LogPluginManager: Loaded Plugin HTML5Networking, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/HTML5Networking/HTML5Networking.uplugin
+LogPluginManager: Loaded Plugin OSVR, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/OSVR/OSVR.uplugin
+LogPluginManager: Loaded Plugin Phya, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/Phya/Phya.uplugin
+LogPluginManager: Loaded Plugin SignificanceManager, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/SignificanceManager/SignificanceManager.uplugin
+LogPluginManager: Loaded Plugin SimpleHMD, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/SimpleHMD/SimpleHMD.uplugin
+LogPluginManager: Loaded Plugin StereoPanorama, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/StereoPanorama/StereoPanorama.uplugin
+LogPluginManager: Loaded Plugin StructBox, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/StructBox/StructBox.uplugin
+LogPluginManager: Loaded Plugin AndroidMedia, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Media/AndroidMedia/AndroidMedia.uplugin
+LogPluginManager: Loaded Plugin AvfMedia, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Media/AvfMedia/AvfMedia.uplugin
+LogPluginManager: Loaded Plugin MediaPlayerEditor, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Media/MediaPlayerEditor/MediaPlayerEditor.uplugin
+LogPluginManager: Loaded Plugin WmfMedia, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Media/WmfMedia/WmfMedia.uplugin
+LogPluginManager: Loaded Plugin MessagingDebugger, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Messaging/MessagingDebugger/MessagingDebugger.uplugin
+LogPluginManager: Loaded Plugin TcpMessaging, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Messaging/TcpMessaging/TcpMessaging.uplugin
+LogPluginManager: Loaded Plugin UdpMessaging, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Messaging/UdpMessaging/UdpMessaging.uplugin
+LogPluginManager: Loaded Plugin LevelSequenceEditor, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/MovieScene/LevelSequenceEditor/LevelSequenceEditor.uplugin
+LogPluginManager: Loaded Plugin MatineeToLevelSequence, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/MovieScene/MatineeToLevelSequence/MatineeToLevelSequence.uplugin
+LogPluginManager: Loaded Plugin NetcodeUnitTest, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/NetcodeUnitTest.uplugin
+LogPluginManager: Loaded Plugin NUTUnrealEngine4, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/NUTUnrealEngine4.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemGameCircle, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/Android/OnlineSubsystemGameCircle/OnlineSubsystemGameCircle.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemGooglePlay, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/Android/OnlineSubsystemGooglePlay/OnlineSubsystemGooglePlay.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemIOS, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/IOS/OnlineSubsystemIOS/OnlineSubsystemIOS.uplugin
+LogPluginManager: Loaded Plugin OnlineFramework, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineFramework/OnlineFramework.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystem, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystem/OnlineSubsystem.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemAmazon, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemAmazon/OnlineSubsystemAmazon.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemFacebook, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemFacebook/OnlineSubsystemFacebook.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemNull, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemNull/OnlineSubsystemNull.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemOculus, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemOculus/OnlineSubsystemOculus.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemSteam, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemSteam/OnlineSubsystemSteam.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemUtils, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemUtils/OnlineSubsystemUtils.uplugin
+LogPluginManager: Loaded Plugin IOSTapJoy, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Advertising/IOSTapJoy/IOSTapJoy.uplugin
+LogPluginManager: Loaded Plugin AnalyticsBlueprintLibrary, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/AnalyticsBlueprintLibrary/AnalyticsBlueprintLibrary.uplugin
+LogPluginManager: Loaded Plugin AnalyticsMulticast, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/AnalyticsMulticast/AnalyticsMulticast.uplugin
+LogPluginManager: Loaded Plugin Apsalar, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/Apsalar/Apsalar.uplugin
+LogPluginManager: Loaded Plugin FileLogging, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/FileLogging/FileLogging.uplugin
+LogPluginManager: Loaded Plugin Flurry, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/Flurry/Flurry.uplugin
+LogPluginManager: Loaded Plugin AndroidDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/AndroidDeviceProfileSelector/AndroidDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin AndroidMoviePlayer, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/AndroidMoviePlayer/AndroidMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin AppleMoviePlayer, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/AppleMoviePlayer/AppleMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin ArchVisCharacter, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/ArchVisCharacter/ArchVisCharacter.uplugin
+LogPluginManager: Loaded Plugin CableComponent, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/CableComponent/CableComponent.uplugin
+LogPluginManager: Loaded Plugin CustomMeshComponent, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/CustomMeshComponent/CustomMeshComponent.uplugin
+LogPluginManager: Loaded Plugin ExampleDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/ExampleDeviceProfileSelector/ExampleDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin GearVR, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/GearVR/GearVR.uplugin
+LogPluginManager: Loaded Plugin GoogleVRController, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/GoogleVR/GoogleVRController/GoogleVRController.uplugin
+LogPluginManager: Loaded Plugin GoogleVRHMD, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/GoogleVR/GoogleVRHMD/GoogleVRHMD.uplugin
+LogPluginManager: Loaded Plugin IOSDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/IOSDeviceProfileSelector/IOSDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin LeapMotion, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/LeapMotion/LeapMotion.uplugin
+LogPluginManager: Loaded Plugin LinuxDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/LinuxDeviceProfileSelector/LinuxDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin MIDIDevice, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/MIDIDevice/MIDIDevice.uplugin
+LogPluginManager: Loaded Plugin MobilePatchingUtils, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/MobilePatchingUtils/MobilePatchingUtils.uplugin
+LogPluginManager: Loaded Plugin Ansel, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Nvidia/Ansel/Ansel.uplugin
+LogPluginManager: Loaded Plugin OculusAudio, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/OculusAudio/OculusAudio.uplugin
+LogPluginManager: Loaded Plugin OculusInput, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/OculusInput/OculusInput.uplugin
+LogPluginManager: Loaded Plugin OculusLibrary, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/OculusLibrary/OculusLibrary.uplugin
+LogPluginManager: Loaded Plugin OculusRift, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/OculusRift/OculusRift.uplugin
+LogPluginManager: Loaded Plugin Oodle, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/PacketHandlers/CompressionComponents/Oodle/Oodle.uplugin
+LogPluginManager: Loaded Plugin ProceduralMeshComponent, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/ProceduralMeshComponent/ProceduralMeshComponent.uplugin
+LogPluginManager: Loaded Plugin SoundMod, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/SoundMod/SoundMod.uplugin
+LogPluginManager: Loaded Plugin SoundVisualizations, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/SoundVisualizations/SoundVisualizations.uplugin
+LogPluginManager: Loaded Plugin SteamController, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Steam/SteamController/SteamController.uplugin
+LogPluginManager: Loaded Plugin SteamVR, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Steam/SteamVR/SteamVR.uplugin
+LogPluginManager: Loaded Plugin WebBrowserWidget, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/WebBrowserWidget/WebBrowserWidget.uplugin
+LogPluginManager: Loaded Plugin WindowsDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/WindowsDeviceProfileSelector/WindowsDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin WindowsMoviePlayer, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/WindowsMoviePlayer/WindowsMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin ScriptPlugin, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/ScriptPlugin/ScriptPlugin.uplugin
+LogPluginManager: Loaded Plugin SlateRemote, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Slate/SlateRemote/SlateRemote.uplugin
+LogPluginManager: Loaded Plugin EditorTests, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Tests/EditorTests/EditorTests.uplugin
+LogPluginManager: Loaded Plugin FbxAutomationTestBuilder, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Tests/FbxAutomationTestBuilder/FbxAutomationTestBuilder.uplugin
+LogPluginManager: Loaded Plugin FunctionalTestingEditor, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Tests/FunctionalTestingEditor/FunctionalTestingEditor.uplugin
+LogPluginManager: Loaded Plugin RuntimeTests, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Tests/RuntimeTests/RuntimeTests.uplugin
+LogPluginManager: Loaded Plugin ScreenshotTools, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Tests/ScreenshotTools/ScreenshotTools.uplugin
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.14-CL-3224400
+LogInit: Engine Version: 4.14.1-3224400+++UE4+Release-4.14
+LogInit: Compatible Engine Version: 4.14.0-3195953+++UE4+Release-4.14
+LogInit: Net CL: 3195953
+LogDevObjectVersion: Number of dev versions registered: 13
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 7
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 1
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 8
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 17
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 12
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 1
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogInit: Compiled (64-bit): Dec  7 2016 02:14:32
+LogInit: Compiled with Visual C++: 19.00.23026.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.14
+LogInit: Command line: -EpicPortal 
+LogInit: Base directory: C:/Program Files (x86)/Epic Games/4.14/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2016.12.30-08.39.11:331][  0]LogInit: Selected Device Profile: [Windows]
+[2016.12.30-08.39.11:331][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2016.12.30-08.39.11:337][  0]LogInit: Computer: DESKTOP-R87SGPC
+[2016.12.30-08.39.11:337][  0]LogInit: User: Administrator
+[2016.12.30-08.39.11:337][  0]LogInit: CPU Page size=65536, Cores=4
+[2016.12.30-08.39.11:337][  0]LogInit: High frequency timer resolution =3.328128 MHz
+[2016.12.30-08.39.11:338][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2016.12.30-08.39.11:338][  0]LogMemory: Platform Memory Stats for Windows
+[2016.12.30-08.39.11:338][  0]LogMemory: Process Physical Memory: 265.53 MB used, 265.53 MB peak
+[2016.12.30-08.39.11:338][  0]LogMemory: Process Virtual Memory: 262.61 MB used, 262.61 MB peak
+[2016.12.30-08.39.11:338][  0]LogMemory: Physical Memory: 4544.08 MB used,  11760.07 MB free, 16304.16 MB total
+[2016.12.30-08.39.11:338][  0]LogMemory: Virtual Memory: 676.12 MB used,  11760.07 MB free, 134217728.00 MB total
+[2016.12.30-08.39.11:373][  0]LogTextLocalizationManager: No specific translations for ('ko-KR') exist, so ('ko') translations will be used.
+[2016.12.30-08.39.11:424][  0]LogTextLocalizationManager:Warning: Loaded localization resources contain conflicting entries for (Namespace:KismetSchema, Key:Default):
+Localization Resource: (C:/Program Files (x86)/Epic Games/4.14/Engine/Content/Localization/EditorTutorials/ko/EditorTutorials.locres) Source String Hash: (940523119) Localized String: (디폴트)
+Localization Resource: (C:/Program Files (x86)/Epic Games/4.14/Engine/Content/Localization/Engine/ko/Engine.locres) Source String Hash: (940523119) Localized String: (기본)
+[2016.12.30-08.39.11:424][  0]LogTextLocalizationManager:Warning: Loaded localization resources contain conflicting entries for (Namespace:UObjectToolTips, Key:AnimNode_AssetPlayerBase:InternalTimeAccumulator):
+Localization Resource: (C:/Program Files (x86)/Epic Games/4.14/Engine/Content/Localization/EditorTutorials/ko/EditorTutorials.locres) Source String Hash: (502993589) Localized String: (이 노드에서 애셋을 레퍼런싱하는 데 사용되는 누적 시간입니다.)
+Localization Resource: (C:/Program Files (x86)/Epic Games/4.14/Engine/Content/Localization/Engine/ko/Engine.locres) Source String Hash: (502993589) Localized String: (이 노드에서 애셋을 레퍼런싱하는 데 사용된 누적 시간입니다.)
+[2016.12.30-08.39.11:424][  0]LogTextLocalizationManager:Warning: Loaded localization resources contain conflicting entries for (Namespace:UObjectToolTips, Key:AnimNode_AssetPlayerBase:bIgnoreForRelevancyTest):
+Localization Resource: (C:/Program Files (x86)/Epic Games/4.14/Engine/Content/Localization/EditorTutorials/ko/EditorTutorials.locres) Source String Hash: (319969718) Localized String: (True 면, 스테이트에서 최고 가중치 애니메이션을 찾는 "Relevant anim" 노드는 이 노드를 무시합니다.
+ )
+Localization Resource: (C:/Program Files (x86)/Epic Games/4.14/Engine/Content/Localization/Engine/ko/Engine.locres) Source String Hash: (319969718) Localized String: (True 면 스테이트 내 최고 웨이팅된 애니메이션을 찾는 "Relevant anim" 노드가 무시됩니다.
+ )
+[2016.12.30-08.39.11:424][  0]LogTextLocalizationManager:Warning: Loaded localization resources contain conflicting entries for (Namespace:UObjectToolTips, Key:AnimNode_AssetPlayerBase:BlendWeight):
+Localization Resource: (C:/Program Files (x86)/Epic Games/4.14/Engine/Content/Localization/EditorTutorials/ko/EditorTutorials.locres) Source String Hash: (-1232800293) Localized String: (이 노드에 마지막 걸린 블렌드웨이트 입니다.)
+Localization Resource: (C:/Program Files (x86)/Epic Games/4.14/Engine/Content/Localization/Engine/ko/Engine.locres) Source String Hash: (-1232800293) Localized String: (이 노드에 대해 마지막 접한 블렌드 웨이트)
+[2016.12.30-08.39.11:797][  0]LogD3D11RHI: D3D11 adapters:
+[2016.12.30-08.39.12:276][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 3GB' (Feature Level 11_0)
+[2016.12.30-08.39.12:276][  0]LogD3D11RHI:       3035/0/8152 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2016.12.30-08.39.12:278][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2016.12.30-08.39.12:278][  0]LogD3D11RHI:       0/0/8152 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2016.12.30-08.39.12:278][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2016.12.30-08.39.12:281][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2016.12.30-08.39.12:281][  0]LogD3D11RHI:     GPU DeviceId: 0x1c02 (for the marketing name, search the web for "GPU Device Id")
+[2016.12.30-08.39.12:281][  0]LogWindows: EnumDisplayDevices:
+[2016.12.30-08.39.12:282][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060 3GB' (P:1 D:1)
+[2016.12.30-08.39.12:282][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060 3GB' (P:0 D:0)
+[2016.12.30-08.39.12:283][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060 3GB' (P:0 D:0)
+[2016.12.30-08.39.12:283][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 3GB' (P:0 D:0)
+[2016.12.30-08.39.12:284][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2016.12.30-08.39.12:284][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 3GB
+[2016.12.30-08.39.12:284][  0]LogD3D11RHI:   Driver Version: 375.70 (internal:21.21.13.7570, unified:375.70)
+[2016.12.30-08.39.12:284][  0]LogD3D11RHI:      Driver Date: 10-25-2016
+[2016.12.30-08.39.12:284][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2016.12.30-08.39.12:728][  0]LogD3D11RHI: Async texture creation enabled
+[2016.12.30-08.39.12:780][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2016.12.30-08.39.12:781][  0]LogShaderCompilers: Guid format shader working directory is 16 characters bigger than the processId version (D:/CodeRepository/UnrealDemo/studyURE/Intermediate/Shaders/WorkingDirectory/14764/).
+[2016.12.30-08.39.12:781][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Administrator/AppData/Local/Temp/UnrealShaderWorkingDir/B917F53B41FA4017C9404E93E3F40B90/'.
+[2016.12.30-08.39.12:781][  0]LogShaderCompilers:Display: Using Local Shader Compiler.
+[2016.12.30-08.39.13:812][  0]LogTemp:Display: Loaded TP AllDesktopTargetPlatform
+[2016.12.30-08.39.13:890][  0]LogTemp:Display: Loaded TP MacClientTargetPlatform
+[2016.12.30-08.39.13:970][  0]LogTemp:Display: Loaded TP MacNoEditorTargetPlatform
+[2016.12.30-08.39.14:050][  0]LogTemp:Display: Loaded TP MacServerTargetPlatform
+[2016.12.30-08.39.14:129][  0]LogTemp:Display: Loaded TP MacTargetPlatform
+[2016.12.30-08.39.14:209][  0]LogTemp:Display: Loaded TP WindowsClientTargetPlatform
+[2016.12.30-08.39.14:288][  0]LogTemp:Display: Loaded TP WindowsNoEditorTargetPlatform
+[2016.12.30-08.39.14:369][  0]LogTemp:Display: Loaded TP WindowsServerTargetPlatform
+[2016.12.30-08.39.14:438][  0]LogTemp:Display: Loaded TP WindowsTargetPlatform
+[2016.12.30-08.39.14:518][  0]LogTemp:Display: Loaded TP AndroidTargetPlatform
+[2016.12.30-08.39.14:598][  0]LogTemp:Display: Loaded TP Android_ASTCTargetPlatform
+[2016.12.30-08.39.14:676][  0]LogTemp:Display: Loaded TP Android_ATCTargetPlatform
+[2016.12.30-08.39.14:754][  0]LogTemp:Display: Loaded TP Android_DXTTargetPlatform
+[2016.12.30-08.39.14:832][  0]LogTemp:Display: Loaded TP Android_ETC1TargetPlatform
+[2016.12.30-08.39.14:910][  0]LogTemp:Display: Loaded TP Android_ETC2TargetPlatform
+[2016.12.30-08.39.15:082][  0]LogTemp:Display: Loaded TP Android_MultiTargetPlatform
+[2016.12.30-08.39.15:082][  0]LogTemp:Display: Loaded TP Android_PVRTCTargetPlatform
+[2016.12.30-08.39.15:151][  0]LogTemp:Display: Loaded TP HTML5TargetPlatform
+[2016.12.30-08.39.15:272][  0]LogTemp:Display: Loaded TP IOSTargetPlatform
+[2016.12.30-08.39.15:312][  0]LogTemp:Display: Loaded TP TVOSTargetPlatform
+[2016.12.30-08.39.15:391][  0]LogTemp:Display: Loaded TP LinuxClientTargetPlatform
+[2016.12.30-08.39.15:468][  0]LogTemp:Display: Loaded TP LinuxNoEditorTargetPlatform
+[2016.12.30-08.39.15:547][  0]LogTemp:Display: Loaded TP LinuxServerTargetPlatform
+[2016.12.30-08.39.15:628][  0]LogTemp:Display: Loaded TP LinuxTargetPlatform
+[2016.12.30-08.39.15:628][  0]LogTargetPlatformManager:Display: Building Assets For Windows
+[2016.12.30-08.39.16:227][  0]LogDerivedDataCache:Display: Max Cache Size: 512 MB
+[2016.12.30-08.39.16:270][  0]LogDerivedDataCache: Loaded boot cache 0.04s 50MB C:/Users/Administrator/AppData/Local/UnrealEngine/4.14/DerivedDataCache/Boot.ddc.
+[2016.12.30-08.39.16:270][  0]LogDerivedDataCache:Display: Loaded Boot cache: C:/Users/Administrator/AppData/Local/UnrealEngine/4.14/DerivedDataCache/Boot.ddc
+[2016.12.30-08.39.16:270][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/CodeRepository/UnrealDemo/studyURE/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2016.12.30-08.39.16:270][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2016.12.30-08.39.16:270][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/CodeRepository/UnrealDemo/studyURE/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2016.12.30-08.39.16:270][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2016.12.30-08.39.16:285][  0]LogDerivedDataCache:Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2016.12.30-08.39.16:297][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Administrator/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2016.12.30-08.39.16:519][  0]LogInit: Selected Device Profile: [Windows]
+[2016.12.30-08.39.16:521][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2016.12.30-08.39.16:782][  0]LogMeshUtilities: Using QuadricMeshReduction for automatic static mesh reduction
+[2016.12.30-08.39.16:854][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2016.12.30-08.39.16:926][  0]LogMeshUtilities: Using SimplygonSwarm for distributed automatic mesh merging
+[2016.12.30-08.39.16:926][  0]LogMeshUtilities: No automatic skeletal mesh reduction module available
+[2016.12.30-08.39.16:926][  0]LogMeshUtilities: No automatic mesh merging module available
+[2016.12.30-08.39.17:419][  0]LogNetVersion: GetLocalNetworkVersion: CL: 3195953, ProjectName: studyure, ProjectVersion: , EngineNetworkVersion: 2, GameNetworkVersion: 0, NetworkChecksum: 2740501670
+[2016.12.30-08.39.17:483][  0]LogAssetRegistry: FAssetRegistry took 0.0224 seconds to start up
+[2016.12.30-08.39.17:560][  0]LogPackageLocalizationCache: Processed 3 localized package path(s) for 2 prioritized culture(s) in 0.028626 seconds
+[2016.12.30-08.39.17:565][  0]LogUObjectArray: 31946 objects as part of root set at end of initial load.
+[2016.12.30-08.39.17:565][  0]LogUObjectAllocator: 6935848 out of 0 bytes used by permanent object pool.
+[2016.12.30-08.39.17:565][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2016.12.30-08.39.17:654][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2016.12.30-08.39.18:899][  0]LogSlate: Using Freetype 2.6.0
+[2016.12.30-08.39.18:899][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2016.12.30-08.39.18:899][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2016.12.30-08.39.19:756][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2016.12.30-08.39.19:825][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2016.12.30-08.39.20:282][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2016.12.30-08.39.20:852][  0]SourceControl: 정보 소스 콘트롤이 꺼졌습니다.
+[2016.12.30-08.39.23:478][  0]LogEngine: Initializing Engine...
+[2016.12.30-08.39.23:479][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2016.12.30-08.39.23:780][  0]LogAIModule: Creating AISystem for world Untitled
+[2016.12.30-08.39.23:815][  0]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2016.12.30-08.39.23:860][  0]LogInit: FAudioDevice initialized.
+[2016.12.30-08.39.23:883][  0]LogDerivedDataCache: Saved boot cache 0.02s 50MB C:/Users/Administrator/AppData/Local/UnrealEngine/4.14/DerivedDataCache/Boot.ddc.
+[2016.12.30-08.39.23:887][  0]LogInit: Texture streaming: Enabled
+[2016.12.30-08.39.24:176][  0]LogInit: Transaction tracking system initialized
+[2016.12.30-08.39.24:758][  0]BlueprintLog: New page: 에디터 로드
+[2016.12.30-08.39.26:201][  0]LocalizationService: 정보 현지화 서비스가 비활성화되었습니다.
+[2016.12.30-08.39.27:239][  0]LogConsoleResponse:Display: 
+[2016.12.30-08.39.27:389][  0]LogCook:Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2016.12.30-08.39.27:389][  0]LogCook:Display: Mobile HDR setting 1
+[2016.12.30-08.39.28:152][  0]LogFileCache: Scanning file cache for directory 'D:/CodeRepository/UnrealDemo/studyURE/Content/' took 0.03s
+[2016.12.30-08.39.29:052][  0]Cmd: MAP LOAD FILE="D:/CodeRepository/UnrealDemo/studyURE/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2016.12.30-08.39.29:060][  0]LightingResults: New page: 라이팅 빌드
+[2016.12.30-08.39.29:139][  0]MapCheck: New page: 맵 체크
+[2016.12.30-08.39.29:140][  0]LightingResults: New page: 라이팅 빌드
+[2016.12.30-08.39.29:673][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2016.12.30-08.39.29:692][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2016.12.30-08.39.29:693][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2016.12.30-08.39.29:741][  0]MapCheck: 정보 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 47.548ms.
+[2016.12.30-08.39.29:741][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.689
+[2016.12.30-08.39.29:801][  0]LogWindowsTextInputMethodSystem:Display: IME system now activated using TSF (Microsoft 입력기).
+[2016.12.30-08.39.29:922][  0]LogCollectionManager: Loaded 0 collections in 0.001223 seconds
+[2016.12.30-08.39.30:059][  0]LogFileCache: Scanning file cache for directory 'D:/CodeRepository/UnrealDemo/studyURE/Saved/Collections/' took 0.01s
+[2016.12.30-08.39.30:059][  0]LogFileCache: Scanning file cache for directory 'D:/CodeRepository/UnrealDemo/studyURE/Content/Developers/Administrator/Collections/' took 0.01s
+[2016.12.30-08.39.30:059][  0]LogFileCache: Scanning file cache for directory 'D:/CodeRepository/UnrealDemo/studyURE/Content/Collections/' took 0.01s
+[2016.12.30-08.39.30:059][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000002 seconds
+[2016.12.30-08.39.30:071][  0]LogContentBrowser: Native class hierarchy populated in 0.0082 seconds. Added 2190 classes and 428 folders.
+[2016.12.30-08.39.30:160][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2016.12.30-08.39.30:161][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2016.12.30-08.39.30:161][  0]LogContentBrowser: Native class hierarchy updated for 'GameplayTags' in 0.0005 seconds. Added 13 classes and 0 folders.
+[2016.12.30-08.39.30:270][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2016.12.30-08.39.30:412][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2016.12.30-08.39.30:496][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2016.12.30-08.39.30:542][  0]LogCrashTracker: Crashtracker disabled due to settings.
+[2016.12.30-08.39.30:554][  0]LogUObjectGlobals:Warning: 'Class 없음.' 오브젝트를 찾는 데 실패했습니다.
+[2016.12.30-08.39.30:652][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2016.12.30-08.39.30:652][  0]LogLoad: (Engine Initialization) Total time: 21.16 seconds
+[2016.12.30-08.39.30:652][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.17 seconds
+[2016.12.30-08.39.30:652][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2016.12.30-08.39.30:652][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2016.12.30-08.39.30:664][  0]LogOcInput: OculusInput pre-init called
+[2016.12.30-08.39.30:685][  0]SourceControl: 정보 On branch master
+[2016.12.30-08.39.30:685][  0]SourceControl: 정보 Your branch is up-to-date with 'origin/master'.
+[2016.12.30-08.39.30:685][  0]SourceControl: 정보 Changes not staged for commit:
+[2016.12.30-08.39.30:685][  0]SourceControl: 정보   (use "git add/rm <file>..." to update what will be committed)
+[2016.12.30-08.39.30:685][  0]SourceControl: 정보   (use "git checkout -- <file>..." to discard changes in working directory)
+[2016.12.30-08.39.30:685][  0]SourceControl: 정보 	modified:   studyURE/Intermediate/CachedAssetRegistry.bin
+[2016.12.30-08.39.30:685][  0]SourceControl: 정보 	modified:   studyURE/Saved/Config/Windows/Editor.ini
+[2016.12.30-08.39.30:685][  0]SourceControl: 정보 	modified:   studyURE/Saved/Config/Windows/Engine.ini
+[2016.12.30-08.39.30:685][  0]SourceControl: 정보 	deleted:    studyURE/Saved/Logs/UE4CC-Windows-B845810C4E45F0A6103D6E85664A3CC1/CrashReportClient.ini
+[2016.12.30-08.39.30:685][  0]SourceControl: 정보 	modified:   studyURE/Saved/Logs/studyURE.log
+[2016.12.30-08.39.30:685][  0]SourceControl: 정보 Untracked files:
+[2016.12.30-08.39.30:685][  0]SourceControl: 정보   (use "git add <file>..." to include in what will be committed)
+[2016.12.30-08.39.30:685][  0]SourceControl: 정보 	studyURE/Saved/Logs/UE4CC-Windows-90DBA00C47D778B1B827EF9F28C70D14/
+[2016.12.30-08.39.30:685][  0]SourceControl: 정보 	studyURE/Saved/Logs/studyURE-backup-2016.12.30-17.39.10.log
+[2016.12.30-08.39.30:685][  0]SourceControl: 정보 no changes added to commit (use "git add" and/or "git commit -a")
+[2016.12.30-08.39.30:686][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2016.12.30-08.39.30:862][  0]LogRenderer: Reallocating scene render targets to support 1144x580 NumSamples 1 (Frame:2).
+[2016.12.30-08.39.30:980][  1]LogAssetRegistry: Asset discovery search completed in 13.5192 seconds
+[2016.12.30-08.39.30:980][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2016.12.30-08.39.30:980][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000013 seconds (updated 0 objects)
+[2016.12.30-08.48.54:216][165]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2016.12.30-08.48.54:905][167]LogTemp:Display: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.studyURE
+
+[2016.12.30-08.48.54:905][167]LogTemp:Display: CWD: C:\Program Files (x86)\Epic Games\4.14\Engine\Binaries\DotNet\IOS
+
+[2016.12.30-08.48.54:905][167]LogTemp:Display: Initial Dir: C:\Program Files (x86)\Epic Games\4.14
+
+[2016.12.30-08.48.54:905][167]LogTemp:Display: Env CWD: C:\Program Files (x86)\Epic Games\4.14\Engine\Binaries\DotNet\IOS
+
+[2016.12.30-08.48.54:916][168]LogTemp:Display: BranchPath = DESKTOP-R87SGPC/C/Program Files (x86)/Epic Games/4.14/Engine/Binaries --- GameBranchPath = DESKTOP-R87SGPC/C/Program Files (x86)/Epic Games/4.14/Engine/Binaries
+
+[2016.12.30-08.48.54:984][176]LogTemp:Display: IPP ERROR: Application exception: System.IO.DirectoryNotFoundException: 'C:\Users\Administrator\AppData\Local\Apple Computer\MobileDevice\Provisioning Profiles' ?????? ?Ϻθ? ã?? ?? ?????ϴ?.
+
+[2016.12.30-08.48.54:984][176]LogTemp:Display:    ??ġ: System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+
+[2016.12.30-08.48.54:984][176]LogTemp:Display: 
+
+[2016.12.30-08.48.54:984][176]LogTemp:Display:    ??ġ: System.IO.FileSystemEnumerableIterator`1.CommonInit()
+
+[2016.12.30-08.48.54:984][176]LogTemp:Display:    ??ġ: System.IO.Directory.EnumerateFiles(String path, String searchPattern)
+
+[2016.12.30-08.48.54:984][176]LogTemp:Display:    ??ġ: iPhonePackager.CodeSignatureBuilder.FindProvisions(String CFBundleIdentifier)
+
+[2016.12.30-08.48.54:984][176]LogTemp:Display:    ??ġ: iPhonePackager.Program.Main(String[] args)
+
+[2016.12.30-08.50.43:801][300]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 111 classes and 0 folders.
+[2016.12.30-08.51.32:294][683]SourceControl: 정보 On branch master
+[2016.12.30-08.51.32:294][683]SourceControl: 정보 Your branch is up-to-date with 'origin/master'.
+[2016.12.30-08.51.32:294][683]SourceControl: 정보 Changes not staged for commit:
+[2016.12.30-08.51.32:294][683]SourceControl: 정보   (use "git add/rm <file>..." to update what will be committed)
+[2016.12.30-08.51.32:294][683]SourceControl: 정보   (use "git checkout -- <file>..." to discard changes in working directory)
+[2016.12.30-08.51.32:294][683]SourceControl: 정보 	modified:   studyURE/Intermediate/CachedAssetRegistry.bin
+[2016.12.30-08.51.32:294][683]SourceControl: 정보 	modified:   studyURE/Saved/Config/Windows/Editor.ini
+[2016.12.30-08.51.32:294][683]SourceControl: 정보 	modified:   studyURE/Saved/Config/Windows/EditorPerProjectUserSettings.ini
+[2016.12.30-08.51.32:294][683]SourceControl: 정보 	modified:   studyURE/Saved/Config/Windows/Engine.ini
+[2016.12.30-08.51.32:294][683]SourceControl: 정보 	deleted:    studyURE/Saved/Logs/UE4CC-Windows-B845810C4E45F0A6103D6E85664A3CC1/CrashReportClient.ini
+[2016.12.30-08.51.32:294][683]SourceControl: 정보 	modified:   studyURE/Saved/Logs/studyURE.log
+[2016.12.30-08.51.32:294][683]SourceControl: 정보 Untracked files:
+[2016.12.30-08.51.32:294][683]SourceControl: 정보   (use "git add <file>..." to include in what will be committed)
+[2016.12.30-08.51.32:294][683]SourceControl: 정보 	studyURE/Saved/Logs/UE4CC-Windows-90DBA00C47D778B1B827EF9F28C70D14/
+[2016.12.30-08.51.32:294][683]SourceControl: 정보 	studyURE/Saved/Logs/studyURE-backup-2016.12.30-17.39.10.log
+[2016.12.30-08.51.32:294][683]SourceControl: 정보 no changes added to commit (use "git add" and/or "git commit -a")
+[2016.12.30-08.51.32:573][683]LogMetaData: Removing '/Game/ToyCow/BP_ToyCowPawn.BP_ToyCowPawn:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/ToyCow/ToyCowPawn.PackageMetaData'
+[2016.12.30-08.51.32:573][683]LogMetaData: Removing '/Game/ToyCow/BP_ToyCowPawn.SKEL_BP_ToyCowPawn_C' ref from Metadata '/Game/ToyCow/ToyCowPawn.PackageMetaData'
+[2016.12.30-08.51.32:573][683]LogMetaData: Removing '/Game/ToyCow/BP_ToyCowPawn.BP_ToyCowPawn_C' ref from Metadata '/Game/ToyCow/ToyCowPawn.PackageMetaData'
+[2016.12.30-08.51.32:573][683]LogMetaData: Removing '/Game/ToyCow/BP_ToyCowPawn.BP_ToyCowPawn:EventGraph.K2Node_Event_0' ref from Metadata '/Game/ToyCow/ToyCowPawn.PackageMetaData'
+[2016.12.30-08.51.32:573][683]LogMetaData: Removing '/Game/ToyCow/BP_ToyCowPawn.BP_ToyCowPawn:EventGraph.K2Node_Event_1' ref from Metadata '/Game/ToyCow/ToyCowPawn.PackageMetaData'
+[2016.12.30-08.51.32:573][683]LogMetaData: Removing '/Game/ToyCow/BP_ToyCowPawn.BP_ToyCowPawn:EventGraph.K2Node_Event_2' ref from Metadata '/Game/ToyCow/ToyCowPawn.PackageMetaData'
+[2016.12.30-08.51.32:589][683]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ToyCow/BP_ToyCowPawn" FILE="D:/CodeRepository/UnrealDemo/studyURE/Content/ToyCow/BP_ToyCowPawn.uasset" SILENT=true
+[2016.12.30-08.51.32:596][683]LogSavePackage: Save=5.73ms
+[2016.12.30-08.51.32:596][683]LogSavePackage: Moving 'D:/CodeRepository/UnrealDemo/studyURE/Saved/BP_ToyCowPawnA2A4913D49F647C6252BD9819216DF73.tmp' to 'D:/CodeRepository/UnrealDemo/studyURE/Content/ToyCow/BP_ToyCowPawn.uasset'
+[2016.12.30-08.51.32:614][683]LogSavePackage:Display: Finished SavePackage D:/CodeRepository/UnrealDemo/studyURE/Content/ToyCow/BP_ToyCowPawn.uasset
+[2016.12.30-08.52.44:963][382]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.014
+[2016.12.30-08.52.44:964][382]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ToyCow/ToyCowPawn" FILE="D:/CodeRepository/UnrealDemo/studyURE/Saved/Autosaves/Game/ToyCow/ToyCowPawn_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2016.12.30-08.52.44:965][382]LogSavePackage: Save=0.63ms
+[2016.12.30-08.52.44:965][382]LogSavePackage: Moving 'D:/CodeRepository/UnrealDemo/studyURE/Saved/ToyCowPawn_Auto161889EF94341D0C2E3E77CA1094CB249.tmp' to 'D:/CodeRepository/UnrealDemo/studyURE/Saved/Autosaves/Game/ToyCow/ToyCowPawn_Auto1.uasset'
+[2016.12.30-08.52.44:966][382]LogSavePackage:Display: Finished SavePackage D:/CodeRepository/UnrealDemo/studyURE/Saved/Autosaves/Game/ToyCow/ToyCowPawn_Auto1.uasset
+[2016.12.30-08.52.44:966][382]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ToyCow/BP_ToyCowPawn] ([1] browsable assets)...
+[2016.12.30-08.52.44:976][382]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ToyCow/BP_ToyCowPawn.BP_ToyCowPawn]
+[2016.12.30-08.52.44:976][382]OBJ SavePackage: Finished generating thumbnails for package [/Game/ToyCow/BP_ToyCowPawn]
+[2016.12.30-08.52.44:976][382]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ToyCow/BP_ToyCowPawn" FILE="D:/CodeRepository/UnrealDemo/studyURE/Saved/Autosaves/Game/ToyCow/BP_ToyCowPawn_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2016.12.30-08.52.45:075][382]LogSavePackage: Save=19.00ms
+[2016.12.30-08.52.45:075][382]LogSavePackage: Moving 'D:/CodeRepository/UnrealDemo/studyURE/Saved/BP_ToyCowPawn_Auto1375023EE46111AE6B59D3193876D0077.tmp' to 'D:/CodeRepository/UnrealDemo/studyURE/Saved/Autosaves/Game/ToyCow/BP_ToyCowPawn_Auto1.uasset'
+[2016.12.30-08.52.45:075][382]LogSavePackage:Display: Finished SavePackage D:/CodeRepository/UnrealDemo/studyURE/Saved/Autosaves/Game/ToyCow/BP_ToyCowPawn_Auto1.uasset
+[2016.12.30-08.52.45:076][382]LogFileHelpers: Auto-saving content packages took 0.112
+[2016.12.30-08.53.35:385][146]LogEditorTransaction: Undo 컴포넌트 변경
+[2016.12.30-08.53.35:749][169]LogEditorTransaction: Undo 컴포넌트 추가
+[2016.12.30-08.53.35:980][183]LogEditorTransaction: Undo 새 씬 루트로 만들기
+[2016.12.30-08.55.00:118][ 75]BlueprintLog: New page: BP_ToyCowPawn 컴파일
+[2016.12.30-08.55.00:900][131]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ToyCow/BP_ToyCowPawn" FILE="D:/CodeRepository/UnrealDemo/studyURE/Content/ToyCow/BP_ToyCowPawn.uasset" SILENT=true
+[2016.12.30-08.55.00:920][131]LogSavePackage: Save=16.29ms
+[2016.12.30-08.55.00:920][131]LogSavePackage: Moving 'D:/CodeRepository/UnrealDemo/studyURE/Saved/BP_ToyCowPawn141CF08642FEA9E2571F60B4E7B89598.tmp' to 'D:/CodeRepository/UnrealDemo/studyURE/Content/ToyCow/BP_ToyCowPawn.uasset'
+[2016.12.30-08.55.00:921][131]LogSavePackage:Display: Finished SavePackage D:/CodeRepository/UnrealDemo/studyURE/Content/ToyCow/BP_ToyCowPawn.uasset
+[2016.12.30-08.55.07:099][831]LogAIModule: Creating AISystem for world step3
+[2016.12.30-08.55.08:498][831]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ToyCow/ToyCowPawn" FILE="D:/CodeRepository/UnrealDemo/studyURE/Content/ToyCow/ToyCowPawn.uasset" SILENT=true
+[2016.12.30-08.55.08:499][831]LogSavePackage: Save=0.63ms
+[2016.12.30-08.55.08:499][831]LogSavePackage: Moving 'D:/CodeRepository/UnrealDemo/studyURE/Saved/ToyCowPawnE457EADB4D6BF492F27091950604318B.tmp' to 'D:/CodeRepository/UnrealDemo/studyURE/Content/ToyCow/ToyCowPawn.uasset'
+[2016.12.30-08.55.08:500][831]LogSavePackage:Display: Finished SavePackage D:/CodeRepository/UnrealDemo/studyURE/Content/ToyCow/ToyCowPawn.uasset
+[2016.12.30-08.55.08:608][831]Cmd: MAP LOAD FILE="D:/CodeRepository/UnrealDemo/studyURE/Content/Maps/step3.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2016.12.30-08.55.08:608][831]LightingResults: New page: 라이팅 빌드
+[2016.12.30-08.55.08:609][831]LoadErrors: New page: 맵 로드중: step3.umap
+[2016.12.30-08.55.08:610][831]MapCheck: New page: 맵 체크
+[2016.12.30-08.55.08:610][831]LightingResults: New page: 라이팅 빌드
+[2016.12.30-08.55.08:629][831]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2016.12.30-08.55.08:641][831]Cmd: MAP CHECKDEP NOCLEARLOG
+[2016.12.30-08.55.08:701][831]MapCheck: 정보 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 59.885ms.
+[2016.12.30-08.55.08:702][831]LogFileHelpers: Loading map 'step3' took 0.096
+[2016.12.30-08.55.14:061][451]LogTemp: Repeting last play command: 선택된 뷰포트
+[2016.12.30-08.55.14:069][451]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.12.30-08.55.14:069][451]PIE: New page: PIE 세션: step3 (2016. 12. 31. 오전 2:55:14)
+[2016.12.30-08.55.14:069][451]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_step3
+[2016.12.30-08.55.14:072][451]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002767s)
+[2016.12.30-08.55.14:073][451]LogAIModule: Creating AISystem for world step3
+[2016.12.30-08.55.14:073][451]LogPlayLevel: PIE: World Init took: (0.000685s)
+[2016.12.30-08.55.14:073][451]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/step3.step3 to /Game/Maps/UEDPIE_0_step3.step3 (0.003664s)
+[2016.12.30-08.55.14:116][451]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2016.12.30-08.55.14:136][451]LogInit: FAudioDevice initialized.
+[2016.12.30-08.55.14:189][451]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2016.12.30-08.55.14:192][451]LogWorld: Bringing World /Game/Maps/UEDPIE_0_step3.step3 up for play (max tick rate 0) at 2016.12.30-17.55.14
+[2016.12.30-08.55.14:193][451]LogWorld: Bringing up level for play took: 0.001808
+[2016.12.30-08.55.14:268][451]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 11 classes and 0 folders.
+[2016.12.30-08.55.14:274][451]LogBlueprintUserMessages: [FountainBP_356] I'm ready to flow
+[2016.12.30-08.55.14:274][451]PIE: 정보 /Game/Maps/UEDPIE_0_step3 에 대한 에디터에서 플레이 시작 시간: 1.137
+[2016.12.30-08.57.07:754][680]LogSlate:Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2016.12.30-08.57.17:972][322]BlueprintLog: New page: BP_ToyCowGameMode 컴파일
+[2016.12.30-08.57.18:597][369]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ToyCow/BP_ToyCowGameMode" FILE="D:/CodeRepository/UnrealDemo/studyURE/Content/ToyCow/BP_ToyCowGameMode.uasset" SILENT=true
+[2016.12.30-08.57.18:605][369]LogSavePackage: Save=6.24ms
+[2016.12.30-08.57.18:605][369]LogSavePackage: Moving 'D:/CodeRepository/UnrealDemo/studyURE/Saved/BP_ToyCowGameMode7DD5EBA34EA348DAF5AA4683DB5FE9D3.tmp' to 'D:/CodeRepository/UnrealDemo/studyURE/Content/ToyCow/BP_ToyCowGameMode.uasset'
+[2016.12.30-08.57.18:605][369]LogSavePackage:Display: Finished SavePackage D:/CodeRepository/UnrealDemo/studyURE/Content/ToyCow/BP_ToyCowGameMode.uasset
+[2016.12.30-08.57.52:122][326]LogSlate:Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2016.12.30-08.57.54:641][624]LogTemp: Repeting last play command: 선택된 뷰포트
+[2016.12.30-08.57.54:648][624]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.12.30-08.57.54:649][624]PIE: New page: PIE 세션: step3 (2016. 12. 31. 오전 2:57:54)
+[2016.12.30-08.57.54:649][624]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_step3
+[2016.12.30-08.57.54:651][624]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001741s)
+[2016.12.30-08.57.54:651][624]LogAIModule: Creating AISystem for world step3
+[2016.12.30-08.57.54:651][624]LogPlayLevel: PIE: World Init took: (0.000781s)
+[2016.12.30-08.57.54:651][624]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/step3.step3 to /Game/Maps/UEDPIE_0_step3.step3 (0.002776s)
+[2016.12.30-08.57.54:690][624]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2016.12.30-08.57.54:707][624]LogInit: FAudioDevice initialized.
+[2016.12.30-08.57.54:740][624]LogLoad: Game class is 'BP_ToyCowGameMode_C'
+[2016.12.30-08.57.54:743][624]LogWorld: Bringing World /Game/Maps/UEDPIE_0_step3.step3 up for play (max tick rate 0) at 2016.12.30-17.57.54
+[2016.12.30-08.57.54:743][624]LogWorld: Bringing up level for play took: 0.001450
+[2016.12.30-08.57.54:744][624]LogBlueprintUserMessages: [FountainBP_356] I'm ready to flow
+[2016.12.30-08.57.54:744][624]PIE: 정보 /Game/Maps/UEDPIE_0_step3 에 대한 에디터에서 플레이 시작 시간: -0.392
+[2016.12.30-08.58.33:889][711]BlueprintLog: New page: BP_ToyCowPawn 컴파일
+[2016.12.30-08.58.34:613][742]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ToyCow/BP_ToyCowPawn" FILE="D:/CodeRepository/UnrealDemo/studyURE/Content/ToyCow/BP_ToyCowPawn.uasset" SILENT=true
+[2016.12.30-08.58.34:632][742]LogSavePackage: Save=15.89ms
+[2016.12.30-08.58.34:632][742]LogSavePackage: Moving 'D:/CodeRepository/UnrealDemo/studyURE/Saved/BP_ToyCowPawn5C8509F0461E16888A3E2A9328E23818.tmp' to 'D:/CodeRepository/UnrealDemo/studyURE/Content/ToyCow/BP_ToyCowPawn.uasset'
+[2016.12.30-08.58.34:633][742]LogSavePackage:Display: Finished SavePackage D:/CodeRepository/UnrealDemo/studyURE/Content/ToyCow/BP_ToyCowPawn.uasset
+[2016.12.30-08.58.37:007][  0]LogTemp: Repeting last play command: 선택된 뷰포트
+[2016.12.30-08.58.37:014][  0]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.12.30-08.58.37:014][  0]PIE: New page: PIE 세션: step3 (2016. 12. 31. 오전 2:58:37)
+[2016.12.30-08.58.37:014][  0]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_step3
+[2016.12.30-08.58.37:016][  0]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001487s)
+[2016.12.30-08.58.37:016][  0]LogAIModule: Creating AISystem for world step3
+[2016.12.30-08.58.37:017][  0]LogPlayLevel: PIE: World Init took: (0.000726s)
+[2016.12.30-08.58.37:017][  0]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/step3.step3 to /Game/Maps/UEDPIE_0_step3.step3 (0.002370s)
+[2016.12.30-08.58.37:057][  0]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2016.12.30-08.58.37:074][  0]LogInit: FAudioDevice initialized.
+[2016.12.30-08.58.37:104][  0]LogLoad: Game class is 'BP_ToyCowGameMode_C'
+[2016.12.30-08.58.37:107][  0]LogWorld: Bringing World /Game/Maps/UEDPIE_0_step3.step3 up for play (max tick rate 0) at 2016.12.30-17.58.37
+[2016.12.30-08.58.37:107][  0]LogWorld: Bringing up level for play took: 0.001347
+[2016.12.30-08.58.37:108][  0]LogBlueprintUserMessages: [FountainBP_356] I'm ready to flow
+[2016.12.30-08.58.37:108][  0]PIE: 정보 /Game/Maps/UEDPIE_0_step3 에 대한 에디터에서 플레이 시작 시간: -0.028
+[2016.12.30-08.59.15:439][143]BlueprintLog: New page: BP_ToyCowPawn 컴파일
+[2016.12.30-08.59.16:056][179]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ToyCow/BP_ToyCowPawn" FILE="D:/CodeRepository/UnrealDemo/studyURE/Content/ToyCow/BP_ToyCowPawn.uasset" SILENT=true
+[2016.12.30-08.59.16:074][179]LogSavePackage: Save=15.67ms
+[2016.12.30-08.59.16:074][179]LogSavePackage: Moving 'D:/CodeRepository/UnrealDemo/studyURE/Saved/BP_ToyCowPawn1541A0E44F58ED2AEECE3E92A2B4BEE1.tmp' to 'D:/CodeRepository/UnrealDemo/studyURE/Content/ToyCow/BP_ToyCowPawn.uasset'
+[2016.12.30-08.59.16:075][179]LogSavePackage:Display: Finished SavePackage D:/CodeRepository/UnrealDemo/studyURE/Content/ToyCow/BP_ToyCowPawn.uasset
+[2016.12.30-08.59.21:562][800]LogTemp: Repeting last play command: 선택된 뷰포트
+[2016.12.30-08.59.21:568][800]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.12.30-08.59.21:568][800]PIE: New page: PIE 세션: step3 (2016. 12. 31. 오전 2:59:21)
+[2016.12.30-08.59.21:568][800]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_step3
+[2016.12.30-08.59.21:570][800]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001475s)
+[2016.12.30-08.59.21:570][800]LogAIModule: Creating AISystem for world step3
+[2016.12.30-08.59.21:570][800]LogPlayLevel: PIE: World Init took: (0.000518s)
+[2016.12.30-08.59.21:570][800]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/step3.step3 to /Game/Maps/UEDPIE_0_step3.step3 (0.002221s)
+[2016.12.30-08.59.21:609][800]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2016.12.30-08.59.21:626][800]LogInit: FAudioDevice initialized.
+[2016.12.30-08.59.21:655][800]LogLoad: Game class is 'BP_ToyCowGameMode_C'
+[2016.12.30-08.59.21:658][800]LogWorld: Bringing World /Game/Maps/UEDPIE_0_step3.step3 up for play (max tick rate 0) at 2016.12.30-17.59.21
+[2016.12.30-08.59.21:658][800]LogWorld: Bringing up level for play took: 0.001130
+[2016.12.30-08.59.21:659][800]LogBlueprintUserMessages: [FountainBP_356] I'm ready to flow
+[2016.12.30-08.59.21:659][800]PIE: 정보 /Game/Maps/UEDPIE_0_step3 에 대한 에디터에서 플레이 시작 시간: 0.522
+[2016.12.30-08.59.27:377][479]LogEditorViewport: Clicking on Actor (LMB): BP_ToyCowPawn_C (BP_ToyCowPawn)
+[2016.12.30-08.59.27:636][505]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (ToyCowMesh)
+[2016.12.30-08.59.30:780][882]LogEditorViewport: Clicking on Component (LMB): CameraComponent (Camera)
+[2016.12.30-08.59.30:874][892]LogEditorViewport: Clicking on Actor (double click): BP_ToyCowPawn_C (BP_ToyCowPawn)
+[2016.12.30-08.59.44:916][288]BlueprintLog: New page: BP_ToyCowPawn 컴파일
+[2016.12.30-08.59.45:497][317]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ToyCow/BP_ToyCowPawn" FILE="D:/CodeRepository/UnrealDemo/studyURE/Content/ToyCow/BP_ToyCowPawn.uasset" SILENT=true
+[2016.12.30-08.59.45:515][317]LogSavePackage: Save=15.53ms
+[2016.12.30-08.59.45:515][317]LogSavePackage: Moving 'D:/CodeRepository/UnrealDemo/studyURE/Saved/BP_ToyCowPawn725853B143CCB0E9BDF48390FB7301AF.tmp' to 'D:/CodeRepository/UnrealDemo/studyURE/Content/ToyCow/BP_ToyCowPawn.uasset'
+[2016.12.30-08.59.45:516][317]LogSavePackage:Display: Finished SavePackage D:/CodeRepository/UnrealDemo/studyURE/Content/ToyCow/BP_ToyCowPawn.uasset
+[2016.12.30-08.59.47:585][535]LogTemp: Repeting last play command: 선택된 뷰포트
+[2016.12.30-08.59.47:592][535]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.12.30-08.59.47:592][535]PIE: New page: PIE 세션: step3 (2016. 12. 31. 오전 2:59:47)
+[2016.12.30-08.59.47:592][535]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_step3
+[2016.12.30-08.59.47:594][535]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002007s)
+[2016.12.30-08.59.47:595][535]LogAIModule: Creating AISystem for world step3
+[2016.12.30-08.59.47:595][535]LogPlayLevel: PIE: World Init took: (0.000797s)
+[2016.12.30-08.59.47:595][535]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/step3.step3 to /Game/Maps/UEDPIE_0_step3.step3 (0.003051s)
+[2016.12.30-08.59.47:662][535]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2016.12.30-08.59.47:679][535]LogInit: FAudioDevice initialized.
+[2016.12.30-08.59.47:709][535]LogLoad: Game class is 'BP_ToyCowGameMode_C'
+[2016.12.30-08.59.47:712][535]LogWorld: Bringing World /Game/Maps/UEDPIE_0_step3.step3 up for play (max tick rate 0) at 2016.12.30-17.59.47
+[2016.12.30-08.59.47:712][535]LogWorld: Bringing up level for play took: 0.001153
+[2016.12.30-08.59.47:713][535]LogBlueprintUserMessages: [FountainBP_356] I'm ready to flow
+[2016.12.30-08.59.47:713][535]PIE: 정보 /Game/Maps/UEDPIE_0_step3 에 대한 에디터에서 플레이 시작 시간: 0.577
+[2016.12.30-09.00.02:137][421]LogTemp: Repeting last play command: 선택된 뷰포트
+[2016.12.30-09.00.02:144][421]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.12.30-09.00.02:144][421]PIE: New page: PIE 세션: step3 (2016. 12. 31. 오전 3:00:02)
+[2016.12.30-09.00.02:144][421]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_step3
+[2016.12.30-09.00.02:146][421]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001744s)
+[2016.12.30-09.00.02:146][421]LogAIModule: Creating AISystem for world step3
+[2016.12.30-09.00.02:146][421]LogPlayLevel: PIE: World Init took: (0.000672s)
+[2016.12.30-09.00.02:146][421]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/step3.step3 to /Game/Maps/UEDPIE_0_step3.step3 (0.002602s)
+[2016.12.30-09.00.02:215][421]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2016.12.30-09.00.02:233][421]LogInit: FAudioDevice initialized.
+[2016.12.30-09.00.02:261][421]LogLoad: Game class is 'BP_ToyCowGameMode_C'
+[2016.12.30-09.00.02:264][421]LogWorld: Bringing World /Game/Maps/UEDPIE_0_step3.step3 up for play (max tick rate 0) at 2016.12.30-18.00.02
+[2016.12.30-09.00.02:265][421]LogWorld: Bringing up level for play took: 0.001580
+[2016.12.30-09.00.02:265][421]LogBlueprintUserMessages: [FountainBP_356] I'm ready to flow
+[2016.12.30-09.00.02:265][421]PIE: 정보 /Game/Maps/UEDPIE_0_step3 에 대한 에디터에서 플레이 시작 시간: -0.871
+[2016.12.30-09.00.10:944][738]Cmd: SELECT NONE
+[2016.12.30-09.03.46:474][870]LogTexture:Display: 텍스처 빌드중: CharM_Forge_D (DXT1)
+[2016.12.30-09.03.47:776][870]LogTexture:Display: 텍스처 빌드중: CharM_Forge_N (BC5)
+[2016.12.30-09.03.48:142][870]LogTexture:Display: 텍스처 빌드중: CharM_Forge_MetalMask (AutoDXT)
+[2016.12.30-09.03.48:456][870]LogMaterial: Missing cached shader map for material M_Char_Forge, compiling. 
+[2016.12.30-09.03.48:670][870]LogTexture:Display: 텍스처 빌드중: T_CharM_Barbarous_N (BC5)
+[2016.12.30-09.03.49:089][870]LogTexture:Display: 텍스처 빌드중: T_CharM_Tusk_N (BC5)
+[2016.12.30-09.03.49:408][870]LogTexture:Display: 텍스처 빌드중: T_CharM_Tusk_D (DXT1)
+[2016.12.30-09.03.51:396][870]LogTexture:Display: 텍스처 빌드중: T_CharM_Tusk_E (DXT1)
+[2016.12.30-09.03.51:518][870]LogTexture:Display: 텍스처 빌드중: T_CharM_Tusk_Mask (AutoDXT)
+[2016.12.30-09.03.51:821][870]LogMaterial: Missing cached shader map for material M_Char_Tusk, compiling. 
+[2016.12.30-09.03.52:083][870]LogTexture:Display: 텍스처 빌드중: T_CharM_Talon_D (DXT1)
+[2016.12.30-09.03.54:162][870]LogTexture:Display: 텍스처 빌드중: T_CharM_WarriorB_Mask (AutoDXT)
+[2016.12.30-09.03.54:559][870]LogTexture:Display: 텍스처 빌드중: T_MeterGrid_01_M (BGRA8)
+[2016.12.30-09.03.55:207][870]LogMaterial: Missing cached shader map for material M_CycWall_01, compiling. 
+[2016.12.30-09.03.55:281][870]LogTexture:Display: 텍스처 빌드중: T_CharM_Barbarous_MetalMask (DXT1)
+[2016.12.30-09.03.55:724][870]LogTexture:Display: 텍스처 빌드중: T_CharM_Barbarous_D (DXT1)
+[2016.12.30-09.03.57:418][870]LogMaterial: Missing cached shader map for material M_Char_Barbrous, compiling. 
+[2016.12.30-09.03.57:647][870]LogTexture:Display: 텍스처 빌드중: T_CharM_Standard_N (BC5)
+[2016.12.30-09.03.58:051][870]LogTexture:Display: 텍스처 빌드중: T_CharM_Standard_Mask (DXT1)
+[2016.12.30-09.03.58:573][870]LogTexture:Display: 텍스처 빌드중: T_CharM_Horn_D (DXT1)
+[2016.12.30-09.04.00:551][870]LogMaterial: Missing cached shader map for material M_Char_Horn, compiling. 
+[2016.12.30-09.04.00:808][870]LogTexture:Display: 텍스처 빌드중: T_CharM_Standard_D (DXT1)
+[2016.12.30-09.04.02:362][870]LogTexture:Display: 텍스처 빌드중: T_CharM_Warrior_N (BC5)
+[2016.12.30-09.04.02:929][870]LogTexture:Display: 텍스처 빌드중: T_CharM_WarriorB_D (DXT1)
+[2016.12.30-09.04.04:437][870]LogTexture:Display: 텍스처 빌드중: T_CharM_Warrior_JewelMask (AutoDXT)
+[2016.12.30-09.04.04:671][870]LogMaterial: Missing cached shader map for material M_Char_Warrior_B, compiling. 
+[2016.12.30-09.04.04:724][870]LogMaterial: Missing cached shader map for material M_Char_Standard, compiling. 
+[2016.12.30-09.04.04:971][870]LogTexture:Display: 텍스처 빌드중: T_CharM_Ragged_Elite (DXT1)
+[2016.12.30-09.04.07:259][870]LogTexture:Display: 텍스처 빌드중: T_CharM_Ram_N (BC5)
+[2016.12.30-09.04.07:839][870]LogTexture:Display: 텍스처 빌드중: T_CharM_Ram_B_D (DXT1)
+[2016.12.30-09.04.09:978][870]LogTexture:Display: 텍스처 빌드중: T_CharM_Ram_B_Mask (AutoDXT)
+[2016.12.30-09.04.10:247][870]LogTexture:Display: 텍스처 빌드중: LowResBlurredNoise (G8)
+[2016.12.30-09.04.10:250][870]LogMaterial: Missing cached shader map for material M_Char_Ram, compiling. 
+[2016.12.30-09.04.10:352][870]LogTexture:Display: 텍스처 빌드중: T_CharM_Ragged_Elite_Mask (AutoDXT)
+[2016.12.30-09.04.10:813][870]LogTexture:Display: 텍스처 빌드중: T_CharM_Ragged_N (BC5)
+[2016.12.30-09.04.11:151][870]LogMaterial: Missing cached shader map for material M_Char_RaggedElite, compiling. 
+[2016.12.30-09.04.11:421][870]LogTexture:Display: 텍스처 빌드중: T_CharM_solid_D (DXT1)
+[2016.12.30-09.04.12:919][870]LogTexture:Display: 텍스처 빌드중: T_CharM_solid_N (BC5)
+[2016.12.30-09.04.13:317][870]LogTexture:Display: 텍스처 빌드중: T_CharM_solid_Mask (AutoDXT)
+[2016.12.30-09.04.13:597][870]LogMaterial: Missing cached shader map for material M_Char_Solid, compiling. 
+[2016.12.30-09.04.13:639][870]LogMaterial: Missing cached shader map for material M_Char_Talon, compiling. 
+[2016.12.30-09.04.13:727][870]LogTexture:Display: 텍스처 빌드중: T_CharM_Base_N (BC5)
+[2016.12.30-09.04.13:826][870]LogTexture:Display: 텍스처 빌드중: T_CharM_Base_M (AutoDXT)
+[2016.12.30-09.04.13:983][870]LogTexture:Display: 텍스처 빌드중: T_CharM_Bladed_MetalMask1 (AutoDXT)
+[2016.12.30-09.04.14:520][870]LogTexture:Display: 텍스처 빌드중: T_CharM_Bladed_N (BC5)
+[2016.12.30-09.04.15:066][870]LogTexture:Display: 텍스처 빌드중: T_CharM_Bladed_D (DXT1)
+[2016.12.30-09.04.16:399][870]LogMaterial: Missing cached shader map for material M_CharM_Bladed, compiling. 
+[2016.12.30-09.04.16:514][870]LogTexture:Display: 텍스처 빌드중: T_Char_M_FrostGiant_Masks (AutoDXT)
+[2016.12.30-09.04.16:984][870]LogTexture:Display: 텍스처 빌드중: T_Char_M_FrostGiant_N (BC5)
+[2016.12.30-09.04.17:506][870]LogTexture:Display: 텍스처 빌드중: T_Char_M_FrostGiant_D (DXT1)
+[2016.12.30-09.04.19:516][870]LogTexture:Display: 텍스처 빌드중: T_Char_M_FrostGiant_MaterialMask (AutoDXT)
+[2016.12.30-09.04.19:785][870]LogMaterial: Missing cached shader map for material M_Char_FrostGiant, compiling. 
+[2016.12.30-09.04.19:995][870]LogTexture:Display: 텍스처 빌드중: T_CharM_Golden_N (BC5)
+[2016.12.30-09.04.20:416][870]LogTexture:Display: 텍스처 빌드중: T_CharM_Golden_Mask (AutoDXT)
+[2016.12.30-09.04.20:883][870]LogTexture:Display: 텍스처 빌드중: T_CharM_Natural_N (AutoDXT)
+[2016.12.30-09.04.22:386][870]LogTexture:Display: 텍스처 빌드중: T_CharM_Natural_D (DXT1)
+[2016.12.30-09.04.23:695][870]LogTexture:Display: 텍스처 빌드중: T_CharM_Natural_Mask (AutoDXT)
+[2016.12.30-09.04.23:967][870]LogMaterial: Missing cached shader map for material M_Char_Natural, compiling. 
+[2016.12.30-09.04.24:029][870]LogTexture:Display: 텍스처 빌드중: HQ_Lightmap0_1 (AutoDXT)
+[2016.12.30-09.04.24:067][870]LogTexture:Display: 텍스처 빌드중: HQ_Lightmap0_2 (AutoDXT)
+[2016.12.30-09.04.24:209][870]LogTexture:Display: 텍스처 빌드중: LQ_Lightmap_0_1 (DXT1)
+[2016.12.30-09.04.24:235][870]LogTexture:Display: 텍스처 빌드중: LQ_Lightmap_0_2 (DXT1)
+[2016.12.30-09.04.24:281][870]LogTexture:Display: 텍스처 빌드중: ShadowMapTexture2D_0 (G8)
+[2016.12.30-09.04.24:283][870]LogTexture:Display: 텍스처 빌드중: ShadowMapTexture2D_1 (G8)
+[2016.12.30-09.04.24:301][870]LogStaticMesh: SM_1Meter_01 스태틱 메시 빌드중...
+[2016.12.30-09.04.24:350][870]LogStaticMesh: Built static mesh [0.05s] /Game/InfinityBladeWarriors/Maps/LevelContent/Architecture/SM_1Meter_01.SM_1Meter_01
+[2016.12.30-09.04.24:351][870]LogStaticMesh: SM_CycRoom_01 스태틱 메시 빌드중...
+[2016.12.30-09.04.24:383][870]LogStaticMesh: Built static mesh [0.03s] /Game/InfinityBladeWarriors/Maps/LevelContent/Architecture/SM_CycRoom_01.SM_CycRoom_01
+[2016.12.30-09.04.24:554][870]LogTexture:Display: 텍스처 빌드중: T_CharM_Golden_D (DXT1)
+[2016.12.30-09.04.25:825][870]LogMaterial: Missing cached shader map for material M_Char_Golden, compiling. 
+[2016.12.30-09.04.26:054][870]LogTexture:Display: 텍스처 빌드중: T_CharM_Robo_D (AutoDXT)
+[2016.12.30-09.04.27:746][870]LogTexture:Display: 텍스처 빌드중: T_CharM_Robo_Mask (AutoDXT)
+[2016.12.30-09.04.28:234][870]LogTexture:Display: 텍스처 빌드중: T_CharM_Robo_N (BC5)
+[2016.12.30-09.04.28:601][870]LogMaterial: Missing cached shader map for material M_Char_Robo, compiling. 
+[2016.12.30-09.04.28:669][870]LogMaterial: Missing cached shader map for material M_CycRoom_01, compiling. 
+[2016.12.30-09.04.28:701][870]LogTexture:Display: 텍스처 빌드중: HDRI_Epic_Courtyard_Daylight (RGBA16F)
+[2016.12.30-09.04.37:960][870]LogTexture:Display: 텍스처 빌드중: T_CharM_Warrior_D (DXT1)
+[2016.12.30-09.04.39:702][870]LogMaterial: Missing cached shader map for material M_Char_Warrior, compiling. 
+[2016.12.30-09.04.39:741][870]LogTexture:Display: 텍스처 빌드중: LUT_Daytime (BGRA8)
+[2016.12.30-09.04.39:933][870]LogTexture:Display: 텍스처 빌드중: T_CharM_Shell_N (BC5)
+[2016.12.30-09.04.40:495][870]LogTexture:Display: 텍스처 빌드중: T_CharM_Shell_D (DXT1)
+[2016.12.30-09.04.41:923][870]LogTexture:Display: 텍스처 빌드중: T_CharM_Shell_Mask (DXT1)
+[2016.12.30-09.04.42:219][870]LogMaterial: Missing cached shader map for material M_Char_Shell, compiling. 
+[2016.12.30-09.04.42:274][870]LogMaterial: Missing cached shader map for material M_1Meter_01, compiling. 
+[2016.12.30-09.04.42:492][870]LogTexture:Display: 텍스처 빌드중: T_CharM_Ragged_D (DXT1)
+[2016.12.30-09.04.43:709][870]LogMaterial: Missing cached shader map for material M_Char_Ragged, compiling. 
+[2016.12.30-09.04.43:929][870]LogTexture:Display: 텍스처 빌드중: T_CharM_Standard_Elite_D (DXT1)
+[2016.12.30-09.04.45:318][870]LogMaterial: Missing cached shader map for material M_Char_Standard_Elite, compiling. 
+[2016.12.30-09.04.45:543][870]LogTexture:Display: 텍스처 빌드중: Char_M_Cardboard_D (DXT1)
+[2016.12.30-09.04.47:011][870]LogTexture:Display: 텍스처 빌드중: Char_M_Cardboard_Skin_Mask (AutoDXT)
+[2016.12.30-09.04.47:463][870]LogTexture:Display: 텍스처 빌드중: Char_M_Cardboard_N (BC5)
+[2016.12.30-09.04.47:805][870]LogMaterial: Missing cached shader map for material M_Char_Cardboard, compiling. 
+[2016.12.30-09.04.47:877][870]LogTexture:Display: 텍스처 빌드중: T_CharM_Base_D (DXT1)
+[2016.12.30-09.04.48:168][870]LogMaterial: Missing cached shader map for material M_CharM_Base, compiling. 
+[2016.12.30-09.04.48:230][870]LogAIModule: Creating AISystem for world Overview
+[2016.12.30-09.04.48:231][870]LogActorComponent: RegisterComponentWithWorld: (/Game/InfinityBladeWarriors/Maps/Overview.Overview:PersistentLevel.WorldSettings_1.StaticMeshComponent0) Trying to register component with IsPendingKill() == true. Aborting.
+[2016.12.30-09.05.07:434][870]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/step3" FILE="D:/CodeRepository/UnrealDemo/studyURE/Content/Maps/step3.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2016.12.30-09.05.07:467][870]LogSavePackage: Save=18.40ms
+[2016.12.30-09.05.07:467][870]LogSavePackage: Moving 'D:/CodeRepository/UnrealDemo/studyURE/Saved/step3AD65B4E54A6670B959916A93E4642AC0.tmp' to 'D:/CodeRepository/UnrealDemo/studyURE/Content/Maps/step3.umap'
+[2016.12.30-09.05.07:469][870]LogSavePackage:Display: Finished SavePackage D:/CodeRepository/UnrealDemo/studyURE/Content/Maps/step3.umap
+[2016.12.30-09.05.07:480][870]LogFileHelpers: Saving map 'step3' took 0.118
+[2016.12.30-09.05.07:482][870]Cmd: MAP LOAD FILE="D:/CodeRepository/UnrealDemo/studyURE/Content/InfinityBladeWarriors/Maps/Overview.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2016.12.30-09.05.07:482][870]LightingResults: New page: 라이팅 빌드
+[2016.12.30-09.05.07:483][870]LoadErrors: New page: 맵 로드중: Overview.umap
+[2016.12.30-09.05.07:513][870]MapCheck: New page: 맵 체크
+[2016.12.30-09.05.07:513][870]LightingResults: New page: 라이팅 빌드
+[2016.12.30-09.05.07:813][870]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2016.12.30-09.05.07:823][870]Cmd: MAP CHECKDEP NOCLEARLOG
+[2016.12.30-09.05.07:886][870]MapCheck: 정보 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 62.72ms.
+[2016.12.30-09.05.07:886][870]LogFileHelpers: Loading map 'Overview' took 0.406
+[2016.12.30-09.05.17:012][892]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (SK_CharM_Cardboard)
+[2016.12.30-09.05.19:401][177]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_AssetPlatform2)
+[2016.12.30-09.05.35:307][991]LogAIModule: Creating AISystem for world step3
+[2016.12.30-09.05.35:323][991]Cmd: MAP LOAD FILE="D:/CodeRepository/UnrealDemo/studyURE/Content/Maps/step3.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2016.12.30-09.05.35:323][991]LightingResults: New page: 라이팅 빌드
+[2016.12.30-09.05.35:324][991]LoadErrors: New page: 맵 로드중: step3.umap
+[2016.12.30-09.05.35:325][991]MapCheck: New page: 맵 체크
+[2016.12.30-09.05.35:325][991]LightingResults: New page: 라이팅 빌드
+[2016.12.30-09.05.35:389][991]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2016.12.30-09.05.35:401][991]Cmd: MAP CHECKDEP NOCLEARLOG
+[2016.12.30-09.05.35:465][991]MapCheck: 정보 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 63.609ms.
+[2016.12.30-09.05.35:465][991]LogFileHelpers: Loading map 'step3' took 0.143
+[2016.12.30-09.05.50:062][978]LogTexture:Display: 텍스처 빌드중: SunsetAmbientCubemap (RGBA16F)
+[2016.12.30-09.07.59:021][914]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/CodeRepository/UnrealDemo/studyURE2/Animation/WarriorRun.FBX)
+[2016.12.30-09.07.59:054][914]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2016.12.30-09.07.59:054][914]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2016.12.30-09.07.59:054][914]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2016.12.30-09.07.59:054][914]LogFbx: ItemName: NodeAttribute, ItemCount : 43
+[2016.12.30-09.07.59:054][914]LogFbx: ItemName: Model, ItemCount : 43
+[2016.12.30-09.07.59:054][914]LogFbx: ItemName: AnimationCurveNode, ItemCount : 129
+[2016.12.30-09.07.59:054][914]LogFbx: ItemName: AnimationCurve, ItemCount : 387
+[2016.12.30-09.07.59:061][914]LogFbx: Loading FBX Scene from D:/CodeRepository/UnrealDemo/studyURE2/Animation/WarriorRun.FBX
+[2016.12.30-09.07.59:081][914]LogFbx: FBX Scene Loaded Succesfully
+[2016.12.30-09.08.13:678][914]LogFbx: Loading FBX Scene from D:/CodeRepository/UnrealDemo/studyURE2/Animation/WarriorRun.FBX
+[2016.12.30-09.08.13:696][914]LogFbx: FBX Scene Loaded Succesfully
+[2016.12.30-09.08.13:700][914]LogFbx: SortedLinks :(0) root
+[2016.12.30-09.08.13:700][914]LogFbx: SortedLinks :(1) pelvis
+[2016.12.30-09.08.13:700][914]LogFbx: SortedLinks :(2) spine_01
+[2016.12.30-09.08.13:700][914]LogFbx: SortedLinks :(3) spine_02
+[2016.12.30-09.08.13:700][914]LogFbx: SortedLinks :(4) spine_03
+[2016.12.30-09.08.13:700][914]LogFbx: SortedLinks :(5) clavicle_l
+[2016.12.30-09.08.13:700][914]LogFbx: SortedLinks :(6) upperarm_l
+[2016.12.30-09.08.13:700][914]LogFbx: SortedLinks :(7) lowerarm_l
+[2016.12.30-09.08.13:700][914]LogFbx: SortedLinks :(8) hand_l
+[2016.12.30-09.08.13:700][914]LogFbx: SortedLinks :(9) index_01_l
+[2016.12.30-09.08.13:700][914]LogFbx: SortedLinks :(10) index_02_l
+[2016.12.30-09.08.13:700][914]LogFbx: SortedLinks :(11) ring_01_l
+[2016.12.30-09.08.13:700][914]LogFbx: SortedLinks :(12) ring_02_l
+[2016.12.30-09.08.13:700][914]LogFbx: SortedLinks :(13) thumb_01_l
+[2016.12.30-09.08.13:700][914]LogFbx: SortedLinks :(14) thumb_02_l
+[2016.12.30-09.08.13:700][914]LogFbx: SortedLinks :(15) lowerarm_twist_01_l
+[2016.12.30-09.08.13:700][914]LogFbx: SortedLinks :(16) upperarm_twist_01_l
+[2016.12.30-09.08.13:700][914]LogFbx: SortedLinks :(17) clavicle_r
+[2016.12.30-09.08.13:700][914]LogFbx: SortedLinks :(18) upperarm_r
+[2016.12.30-09.08.13:700][914]LogFbx: SortedLinks :(19) lowerarm_r
+[2016.12.30-09.08.13:700][914]LogFbx: SortedLinks :(20) hand_r
+[2016.12.30-09.08.13:700][914]LogFbx: SortedLinks :(21) index_01_r
+[2016.12.30-09.08.13:700][914]LogFbx: SortedLinks :(22) index_02_r
+[2016.12.30-09.08.13:700][914]LogFbx: SortedLinks :(23) ring_01_r
+[2016.12.30-09.08.13:700][914]LogFbx: SortedLinks :(24) ring_02_r
+[2016.12.30-09.08.13:700][914]LogFbx: SortedLinks :(25) thumb_01_r
+[2016.12.30-09.08.13:700][914]LogFbx: SortedLinks :(26) thumb_02_r
+[2016.12.30-09.08.13:700][914]LogFbx: SortedLinks :(27) lowerarm_twist_01_r
+[2016.12.30-09.08.13:700][914]LogFbx: SortedLinks :(28) upperarm_twist_01_r
+[2016.12.30-09.08.13:700][914]LogFbx: SortedLinks :(29) neck_01
+[2016.12.30-09.08.13:700][914]LogFbx: SortedLinks :(30) head
+[2016.12.30-09.08.13:700][914]LogFbx: SortedLinks :(31) thigh_l
+[2016.12.30-09.08.13:700][914]LogFbx: SortedLinks :(32) calf_l
+[2016.12.30-09.08.13:700][914]LogFbx: SortedLinks :(33) calf_twist_01_l
+[2016.12.30-09.08.13:700][914]LogFbx: SortedLinks :(34) foot_l
+[2016.12.30-09.08.13:700][914]LogFbx: SortedLinks :(35) ball_l
+[2016.12.30-09.08.13:700][914]LogFbx: SortedLinks :(36) thigh_twist_01_l
+[2016.12.30-09.08.13:700][914]LogFbx: SortedLinks :(37) thigh_r
+[2016.12.30-09.08.13:700][914]LogFbx: SortedLinks :(38) calf_r
+[2016.12.30-09.08.13:700][914]LogFbx: SortedLinks :(39) calf_twist_01_r
+[2016.12.30-09.08.13:700][914]LogFbx: SortedLinks :(40) foot_r
+[2016.12.30-09.08.13:700][914]LogFbx: SortedLinks :(41) ball_r
+[2016.12.30-09.08.13:700][914]LogFbx: SortedLinks :(42) thigh_twist_01_r
+[2016.12.30-09.08.13:701][914]LogFbx: Parsing AnimStack Unreal Take
+[2016.12.30-09.08.13:703][914]LogLinker: '/Game/InfinityBladeWarriors/Character/CompleteCharacters/WarriorRun' 파일을 찾을 수 없습니다.
+[2016.12.30-09.08.13:703][914]LogLinker: '/Game/InfinityBladeWarriors/Character/CompleteCharacters/WarriorRun' 파일을 찾을 수 없습니다.
+[2016.12.30-09.08.13:789][914]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/InfinityBladeWarriors/Character/CompleteCharacters/WarriorRun.WarriorRun
+[2016.12.30-09.09.06:006][806]SourceControl: 정보 On branch master
+[2016.12.30-09.09.06:006][806]SourceControl: 정보 Your branch is up-to-date with 'origin/master'.
+[2016.12.30-09.09.06:006][806]SourceControl: 정보 Changes to be committed:
+[2016.12.30-09.09.06:006][806]SourceControl: 정보   (use "git reset HEAD <file>..." to unstage)
+[2016.12.30-09.09.06:006][806]SourceControl: 정보 	new file:   studyURE/Content/ToyCow/BP_ToyCowGameMode.uasset
+[2016.12.30-09.09.06:006][806]SourceControl: 정보 	new file:   studyURE/Content/ToyCow/BP_ToyCowPawn.uasset
+[2016.12.30-09.09.06:006][806]SourceControl: 정보 	new file:   studyURE/Content/ToyCow/ToyCowPawn.uasset
+[2016.12.30-09.09.06:006][806]SourceControl: 정보 Changes not staged for commit:
+[2016.12.30-09.09.06:006][806]SourceControl: 정보   (use "git add/rm <file>..." to update what will be committed)
+[2016.12.30-09.09.06:006][806]SourceControl: 정보   (use "git checkout -- <file>..." to discard changes in working directory)
+[2016.12.30-09.09.06:006][806]SourceControl: 정보 	modified:   studyURE/Content/Maps/step3.umap
+[2016.12.30-09.09.06:006][806]SourceControl: 정보 	modified:   studyURE/Content/ToyCow/BP_ToyCowPawn.uasset
+[2016.12.30-09.09.06:006][806]SourceControl: 정보 	modified:   studyURE/Intermediate/CachedAssetRegistry.bin
+[2016.12.30-09.09.06:006][806]SourceControl: 정보 	modified:   studyURE/Saved/Autosaves/PackageRestoreData.json
+[2016.12.30-09.09.06:006][806]SourceControl: 정보 	modified:   studyURE/Saved/Config/Windows/EditorPerProjectUserSettings.ini
+[2016.12.30-09.09.06:006][806]SourceControl: 정보 	modified:   studyURE/Saved/Config/Windows/Engine.ini
+[2016.12.30-09.09.06:006][806]SourceControl: 정보 	deleted:    studyURE/Saved/Logs/UE4CC-Windows-B845810C4E45F0A6103D6E85664A3CC1/CrashReportClient.ini
+[2016.12.30-09.09.06:006][806]SourceControl: 정보 	modified:   studyURE/Saved/Logs/studyURE.log
+[2016.12.30-09.09.06:006][806]SourceControl: 정보 Untracked files:
+[2016.12.30-09.09.06:006][806]SourceControl: 정보   (use "git add <file>..." to include in what will be committed)
+[2016.12.30-09.09.06:006][806]SourceControl: 정보 	studyURE/Content/InfinityBladeWarriors/
+[2016.12.30-09.09.06:006][806]SourceControl: 정보 	studyURE/Saved/Autosaves/Game/ToyCow/BP_ToyCowPawn_Auto1.uasset
+[2016.12.30-09.09.06:006][806]SourceControl: 정보 	studyURE/Saved/Autosaves/Game/ToyCow/ToyCowPawn_Auto1.uasset
+[2016.12.30-09.09.06:006][806]SourceControl: 정보 	studyURE/Saved/Backup/BP_ToyCowPawn_2016-12-30-17-52-45.uasset
+[2016.12.30-09.09.06:006][806]SourceControl: 정보 	studyURE/Saved/Backup/BP_ToyCowPawn_2016-12-30-17-58-34.uasset
+[2016.12.30-09.09.06:006][806]SourceControl: 정보 	studyURE/Saved/Backup/step3_2016-12-30-18-05-07.umap
+[2016.12.30-09.09.06:006][806]SourceControl: 정보 	studyURE/Saved/Logs/UE4CC-Windows-90DBA00C47D778B1B827EF9F28C70D14/
+[2016.12.30-09.09.06:006][806]SourceControl: 정보 	studyURE/Saved/Logs/studyURE-backup-2016.12.30-17.39.10.log
+[2016.12.30-09.09.06:281][806]LogMetaData: Removing '/Game/ToyCow/BP_WarriorPawn.BP_WarriorPawn:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/ToyCow/BP_IFWarrior.PackageMetaData'
+[2016.12.30-09.09.06:281][806]LogMetaData: Removing '/Game/ToyCow/BP_WarriorPawn.SKEL_BP_WarriorPawn_C' ref from Metadata '/Game/ToyCow/BP_IFWarrior.PackageMetaData'
+[2016.12.30-09.09.06:281][806]LogMetaData: Removing '/Game/ToyCow/BP_WarriorPawn.BP_WarriorPawn_C' ref from Metadata '/Game/ToyCow/BP_IFWarrior.PackageMetaData'
+[2016.12.30-09.09.06:281][806]LogMetaData: Removing '/Game/ToyCow/BP_WarriorPawn.BP_WarriorPawn:EventGraph.K2Node_Event_0' ref from Metadata '/Game/ToyCow/BP_IFWarrior.PackageMetaData'
+[2016.12.30-09.09.06:281][806]LogMetaData: Removing '/Game/ToyCow/BP_WarriorPawn.BP_WarriorPawn:EventGraph.K2Node_Event_1' ref from Metadata '/Game/ToyCow/BP_IFWarrior.PackageMetaData'
+[2016.12.30-09.09.06:281][806]LogMetaData: Removing '/Game/ToyCow/BP_WarriorPawn.BP_WarriorPawn:EventGraph.K2Node_Event_2' ref from Metadata '/Game/ToyCow/BP_IFWarrior.PackageMetaData'
+[2016.12.30-09.09.06:293][806]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ToyCow/BP_WarriorPawn" FILE="D:/CodeRepository/UnrealDemo/studyURE/Content/ToyCow/BP_WarriorPawn.uasset" SILENT=true
+[2016.12.30-09.09.06:299][806]LogSavePackage: Save=5.03ms
+[2016.12.30-09.09.06:299][806]LogSavePackage: Moving 'D:/CodeRepository/UnrealDemo/studyURE/Saved/BP_WarriorPawn3B0489FD4B7270C22FE8C4902FCE04B6.tmp' to 'D:/CodeRepository/UnrealDemo/studyURE/Content/ToyCow/BP_WarriorPawn.uasset'
+[2016.12.30-09.09.06:299][806]LogSavePackage:Display: Finished SavePackage D:/CodeRepository/UnrealDemo/studyURE/Content/ToyCow/BP_WarriorPawn.uasset
+[2016.12.30-09.12.41:095][ 38]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ToyCow/BP_WarriorPawn" FILE="D:/CodeRepository/UnrealDemo/studyURE/Content/ToyCow/BP_WarriorPawn.uasset" SILENT=true
+[2016.12.30-09.12.41:113][ 38]LogSavePackage: Save=14.67ms
+[2016.12.30-09.12.41:113][ 38]LogSavePackage: Moving 'D:/CodeRepository/UnrealDemo/studyURE/Saved/BP_WarriorPawn213C01F4442DEB101F046C8B133734FF.tmp' to 'D:/CodeRepository/UnrealDemo/studyURE/Content/ToyCow/BP_WarriorPawn.uasset'
+[2016.12.30-09.12.41:114][ 38]LogSavePackage:Display: Finished SavePackage D:/CodeRepository/UnrealDemo/studyURE/Content/ToyCow/BP_WarriorPawn.uasset
+[2016.12.30-09.12.42:130][140]BlueprintLog: New page: BP_WarriorPawn 컴파일
+[2016.12.30-09.12.42:896][187]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ToyCow/BP_WarriorPawn" FILE="D:/CodeRepository/UnrealDemo/studyURE/Content/ToyCow/BP_WarriorPawn.uasset" SILENT=true
+[2016.12.30-09.12.42:914][187]LogSavePackage: Save=15.97ms
+[2016.12.30-09.12.42:914][187]LogSavePackage: Moving 'D:/CodeRepository/UnrealDemo/studyURE/Saved/BP_WarriorPawn1E18651B4C9B76F517C01CAA2DED51E3.tmp' to 'D:/CodeRepository/UnrealDemo/studyURE/Content/ToyCow/BP_WarriorPawn.uasset'
+[2016.12.30-09.12.42:915][187]LogSavePackage:Display: Finished SavePackage D:/CodeRepository/UnrealDemo/studyURE/Content/ToyCow/BP_WarriorPawn.uasset
+[2016.12.30-09.13.39:275][417]SourceControl: 정보 On branch master
+[2016.12.30-09.13.39:275][417]SourceControl: 정보 Your branch is up-to-date with 'origin/master'.
+[2016.12.30-09.13.39:275][417]SourceControl: 정보 Changes to be committed:
+[2016.12.30-09.13.39:275][417]SourceControl: 정보   (use "git reset HEAD <file>..." to unstage)
+[2016.12.30-09.13.39:275][417]SourceControl: 정보 	new file:   studyURE/Content/ToyCow/BP_ToyCowGameMode.uasset
+[2016.12.30-09.13.39:275][417]SourceControl: 정보 	new file:   studyURE/Content/ToyCow/BP_ToyCowPawn.uasset
+[2016.12.30-09.13.39:275][417]SourceControl: 정보 	new file:   studyURE/Content/ToyCow/BP_WarriorPawn.uasset
+[2016.12.30-09.13.39:275][417]SourceControl: 정보 	new file:   studyURE/Content/ToyCow/ToyCowPawn.uasset
+[2016.12.30-09.13.39:275][417]SourceControl: 정보 Changes not staged for commit:
+[2016.12.30-09.13.39:275][417]SourceControl: 정보   (use "git add/rm <file>..." to update what will be committed)
+[2016.12.30-09.13.39:275][417]SourceControl: 정보   (use "git checkout -- <file>..." to discard changes in working directory)
+[2016.12.30-09.13.39:275][417]SourceControl: 정보 	modified:   studyURE/Content/Maps/step3.umap
+[2016.12.30-09.13.39:275][417]SourceControl: 정보 	modified:   studyURE/Content/ToyCow/BP_ToyCowPawn.uasset
+[2016.12.30-09.13.39:275][417]SourceControl: 정보 	modified:   studyURE/Content/ToyCow/BP_WarriorPawn.uasset
+[2016.12.30-09.13.39:275][417]SourceControl: 정보 	modified:   studyURE/Intermediate/CachedAssetRegistry.bin
+[2016.12.30-09.13.39:275][417]SourceControl: 정보 	modified:   studyURE/Saved/Autosaves/PackageRestoreData.json
+[2016.12.30-09.13.39:275][417]SourceControl: 정보 	modified:   studyURE/Saved/Config/Windows/EditorPerProjectUserSettings.ini
+[2016.12.30-09.13.39:275][417]SourceControl: 정보 	modified:   studyURE/Saved/Config/Windows/Engine.ini
+[2016.12.30-09.13.39:275][417]SourceControl: 정보 	deleted:    studyURE/Saved/Logs/UE4CC-Windows-B845810C4E45F0A6103D6E85664A3CC1/CrashReportClient.ini
+[2016.12.30-09.13.39:275][417]SourceControl: 정보 	modified:   studyURE/Saved/Logs/studyURE.log
+[2016.12.30-09.13.39:275][417]SourceControl: 정보 Untracked files:
+[2016.12.30-09.13.39:275][417]SourceControl: 정보   (use "git add <file>..." to include in what will be committed)
+[2016.12.30-09.13.39:275][417]SourceControl: 정보 	studyURE/Content/InfinityBladeWarriors/
+[2016.12.30-09.13.39:275][417]SourceControl: 정보 	studyURE/Saved/Autosaves/Game/ToyCow/BP_ToyCowPawn_Auto1.uasset
+[2016.12.30-09.13.39:275][417]SourceControl: 정보 	studyURE/Saved/Autosaves/Game/ToyCow/ToyCowPawn_Auto1.uasset
+[2016.12.30-09.13.39:275][417]SourceControl: 정보 	studyURE/Saved/Backup/BP_ToyCowPawn_2016-12-30-17-52-45.uasset
+[2016.12.30-09.13.39:275][417]SourceControl: 정보 	studyURE/Saved/Backup/BP_ToyCowPawn_2016-12-30-17-58-34.uasset
+[2016.12.30-09.13.39:275][417]SourceControl: 정보 	studyURE/Saved/Backup/BP_WarriorPawn_2016-12-30-18-12-41.uasset
+[2016.12.30-09.13.39:275][417]SourceControl: 정보 	studyURE/Saved/Backup/step3_2016-12-30-18-05-07.umap
+[2016.12.30-09.13.39:276][417]SourceControl: 정보 	studyURE/Saved/Logs/UE4CC-Windows-90DBA00C47D778B1B827EF9F28C70D14/
+[2016.12.30-09.13.39:276][417]SourceControl: 정보 	studyURE/Saved/Logs/studyURE-backup-2016.12.30-17.39.10.log
+[2016.12.30-09.13.39:491][417]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ToyCow/WarriorRun" FILE="D:/CodeRepository/UnrealDemo/studyURE/Content/ToyCow/WarriorRun.uasset" SILENT=true
+[2016.12.30-09.13.39:502][417]LogSavePackage: Save=10.40ms
+[2016.12.30-09.13.39:502][417]LogSavePackage: Moving 'D:/CodeRepository/UnrealDemo/studyURE/Saved/WarriorRun0FA70CE24165A9B80081DF99EA92ECCD.tmp' to 'D:/CodeRepository/UnrealDemo/studyURE/Content/ToyCow/WarriorRun.uasset'
+[2016.12.30-09.13.39:503][417]LogSavePackage:Display: Finished SavePackage D:/CodeRepository/UnrealDemo/studyURE/Content/ToyCow/WarriorRun.uasset
+[2016.12.30-09.15.03:655][305]LogSkeletalMesh: InitArticulated: Bodies already created (/Engine/Transient.DebugSkelMeshComponent_2) - call TermArticulated first.
+[2016.12.30-09.15.03:780][305]LogContentBrowser:Verbose: The majority of assets in the view are of type: AnimSequence
+[2016.12.30-09.15.22:261][  1]LogSlate:Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2016.12.30-09.16.00:182][290]LogSkeletalMesh: InitArticulated: Bodies already created (/Engine/Transient.DebugSkelMeshComponent_5) - call TermArticulated first.
+[2016.12.30-09.16.00:311][290]LogContentBrowser:Verbose: The majority of assets in the view are of type: AnimSequence
+[2016.12.30-09.16.03:447][564]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ToyCow/WarriorRun" FILE="D:/CodeRepository/UnrealDemo/studyURE/Content/ToyCow/WarriorRun.uasset" SILENT=true
+[2016.12.30-09.16.03:452][564]LogSavePackage: Save=2.10ms
+[2016.12.30-09.16.03:452][564]LogSavePackage: Moving 'D:/CodeRepository/UnrealDemo/studyURE/Saved/WarriorRun4124F9E94870860FF353B398968BEB75.tmp' to 'D:/CodeRepository/UnrealDemo/studyURE/Content/ToyCow/WarriorRun.uasset'
+[2016.12.30-09.16.03:453][564]LogSavePackage:Display: Finished SavePackage D:/CodeRepository/UnrealDemo/studyURE/Content/ToyCow/WarriorRun.uasset
+[2016.12.30-09.16.05:493][751]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/step3" FILE="D:/CodeRepository/UnrealDemo/studyURE/Saved/Autosaves/Game/Maps/step3_Auto2.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2016.12.30-09.16.05:513][751]LogSavePackage: Save=16.81ms
+[2016.12.30-09.16.05:513][751]LogSavePackage: Moving 'D:/CodeRepository/UnrealDemo/studyURE/Saved/step3_Auto22BE0948E48C2DA4D4CD584BB413983A7.tmp' to 'D:/CodeRepository/UnrealDemo/studyURE/Saved/Autosaves/Game/Maps/step3_Auto2.umap'
+[2016.12.30-09.16.05:532][751]LogSavePackage:Display: Finished SavePackage D:/CodeRepository/UnrealDemo/studyURE/Saved/Autosaves/Game/Maps/step3_Auto2.umap
+[2016.12.30-09.16.05:533][751]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/step3' took 0.056
+[2016.12.30-09.16.05:533][751]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.056
+[2016.12.30-09.16.05:537][751]LogSavePackage: Save=0.56ms
+[2016.12.30-09.16.05:537][751]LogSavePackage: Moving 'D:/CodeRepository/UnrealDemo/studyURE/Saved/WarriorRun_Auto26A190FED413865D45B2AAE81DF5060C6.tmp' to 'D:/CodeRepository/UnrealDemo/studyURE/Saved/Autosaves/Game/InfinityBladeWarriors/Character/CompleteCharacters/WarriorRun_Auto2.uasset'
+[2016.12.30-09.16.05:537][751]LogSavePackage:Display: Finished SavePackage D:/CodeRepository/UnrealDemo/studyURE/Saved/Autosaves/Game/InfinityBladeWarriors/Character/CompleteCharacters/WarriorRun_Auto2.uasset
+[2016.12.30-09.16.05:537][751]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ToyCow/BP_IFWarrior" FILE="D:/CodeRepository/UnrealDemo/studyURE/Saved/Autosaves/Game/ToyCow/BP_IFWarrior_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2016.12.30-09.16.05:538][751]LogSavePackage: Save=0.49ms
+[2016.12.30-09.16.05:538][751]LogSavePackage: Moving 'D:/CodeRepository/UnrealDemo/studyURE/Saved/BP_IFWarrior_Auto23689A70E4C88CD9328E4738BC4A134AB.tmp' to 'D:/CodeRepository/UnrealDemo/studyURE/Saved/Autosaves/Game/ToyCow/BP_IFWarrior_Auto2.uasset'
+[2016.12.30-09.16.05:539][751]LogSavePackage:Display: Finished SavePackage D:/CodeRepository/UnrealDemo/studyURE/Saved/Autosaves/Game/ToyCow/BP_IFWarrior_Auto2.uasset
+[2016.12.30-09.16.05:539][751]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ToyCow/BP_WarriorPawn] ([1] browsable assets)...
+[2016.12.30-09.16.05:550][751]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ToyCow/BP_WarriorPawn.BP_WarriorPawn]
+[2016.12.30-09.16.05:550][751]OBJ SavePackage: Finished generating thumbnails for package [/Game/ToyCow/BP_WarriorPawn]
+[2016.12.30-09.16.05:550][751]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ToyCow/BP_WarriorPawn" FILE="D:/CodeRepository/UnrealDemo/studyURE/Saved/Autosaves/Game/ToyCow/BP_WarriorPawn_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2016.12.30-09.16.05:567][751]LogSavePackage: Save=15.13ms
+[2016.12.30-09.16.05:567][751]LogSavePackage: Moving 'D:/CodeRepository/UnrealDemo/studyURE/Saved/BP_WarriorPawn_Auto27333B7644A66F1BE87819E9C06F591A0.tmp' to 'D:/CodeRepository/UnrealDemo/studyURE/Saved/Autosaves/Game/ToyCow/BP_WarriorPawn_Auto2.uasset'
+[2016.12.30-09.16.05:568][751]LogSavePackage:Display: Finished SavePackage D:/CodeRepository/UnrealDemo/studyURE/Saved/Autosaves/Game/ToyCow/BP_WarriorPawn_Auto2.uasset
+[2016.12.30-09.16.05:568][751]LogFileHelpers: Auto-saving content packages took 0.033
+[2016.12.30-09.16.10:529][195]LogSkeletalMesh: InitArticulated: Bodies already created (/Engine/Transient.DebugSkelMeshComponent_8) - call TermArticulated first.
+[2016.12.30-09.16.32:498][173]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/step3" FILE="D:/CodeRepository/UnrealDemo/studyURE/Content/Maps/step3.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2016.12.30-09.16.32:531][173]LogSavePackage: Save=17.29ms
+[2016.12.30-09.16.32:531][173]LogSavePackage: Moving 'D:/CodeRepository/UnrealDemo/studyURE/Saved/step33E9A8B3E43A93A9E7AF4198E3A731AD9.tmp' to 'D:/CodeRepository/UnrealDemo/studyURE/Content/Maps/step3.umap'
+[2016.12.30-09.16.32:532][173]LogSavePackage:Display: Finished SavePackage D:/CodeRepository/UnrealDemo/studyURE/Content/Maps/step3.umap
+[2016.12.30-09.16.32:598][173]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/step3_BuiltData" FILE="D:/CodeRepository/UnrealDemo/studyURE/Content/Maps/step3_BuiltData.uasset" SILENT=true
+[2016.12.30-09.16.32:667][173]LogSavePackage: Save=35.41ms
+[2016.12.30-09.16.32:667][173]LogSavePackage: Moving 'D:/CodeRepository/UnrealDemo/studyURE/Saved/step3_BuiltDataA8C853A24556C27A2C3547A2B1C8D5B6.tmp' to 'D:/CodeRepository/UnrealDemo/studyURE/Content/Maps/step3_BuiltData.uasset'
+[2016.12.30-09.16.32:667][173]LogSavePackage:Display: Finished SavePackage D:/CodeRepository/UnrealDemo/studyURE/Content/Maps/step3_BuiltData.uasset
+[2016.12.30-09.17.18:579][682]BlueprintLog: New page: BP_WarriorPawn 컴파일
+[2016.12.30-09.17.19:215][727]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ToyCow/BP_WarriorPawn" FILE="D:/CodeRepository/UnrealDemo/studyURE/Content/ToyCow/BP_WarriorPawn.uasset" SILENT=true
+[2016.12.30-09.17.19:232][727]LogSavePackage: Save=14.99ms
+[2016.12.30-09.17.19:232][727]LogSavePackage: Moving 'D:/CodeRepository/UnrealDemo/studyURE/Saved/BP_WarriorPawn217A40DB42B27CE5D53CB0B73FFC94C3.tmp' to 'D:/CodeRepository/UnrealDemo/studyURE/Content/ToyCow/BP_WarriorPawn.uasset'
+[2016.12.30-09.17.19:233][727]LogSavePackage:Display: Finished SavePackage D:/CodeRepository/UnrealDemo/studyURE/Content/ToyCow/BP_WarriorPawn.uasset
+[2016.12.30-09.17.33:600][211]LogEditorFactories: Performing atomic reimport of [D:/CodeRepository/UnrealDemo/studyURE2/Animation/WarriorRun.FBX]
+[2016.12.30-09.17.33:618][211]LogFbx: Loading FBX Scene from D:/CodeRepository/UnrealDemo/studyURE2/Animation/WarriorRun.FBX
+[2016.12.30-09.17.33:636][211]LogFbx: FBX Scene Loaded Succesfully
+[2016.12.30-09.17.33:639][211]LogFbx: Parsing AnimStack Unreal Take
+[2016.12.30-09.17.33:720][211]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ToyCow/WarriorRun.WarriorRun
+[2016.12.30-09.17.33:727][211]LogEditorFactories: -- imported successfully
+[2016.12.30-09.19.04:950][255]BlueprintLog: New page: BP_WarriorPawn 컴파일
+[2016.12.30-09.19.58:842][440]BlueprintLog: New page: BP_WarriorPawn 컴파일
+[2016.12.30-09.19.59:360][474]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ToyCow/BP_WarriorPawn" FILE="D:/CodeRepository/UnrealDemo/studyURE/Content/ToyCow/BP_WarriorPawn.uasset" SILENT=true
+[2016.12.30-09.19.59:378][474]LogSavePackage: Save=15.31ms
+[2016.12.30-09.19.59:378][474]LogSavePackage: Moving 'D:/CodeRepository/UnrealDemo/studyURE/Saved/BP_WarriorPawnAC29CEB745C04A6D1231D189EFFEB38A.tmp' to 'D:/CodeRepository/UnrealDemo/studyURE/Content/ToyCow/BP_WarriorPawn.uasset'
+[2016.12.30-09.19.59:379][474]LogSavePackage:Display: Finished SavePackage D:/CodeRepository/UnrealDemo/studyURE/Content/ToyCow/BP_WarriorPawn.uasset
+[2016.12.30-09.20.14:710][944]LogSkeletalMesh: InitArticulated: Bodies already created (/Engine/Transient.DebugSkelMeshComponent_10) - call TermArticulated first.
+[2016.12.30-09.20.14:833][944]LogContentBrowser:Verbose: The majority of assets in the view are of type: AnimSequence
+[2016.12.30-09.20.30:621][393]LogSkeletalMesh: InitArticulated: Bodies already created (/Engine/Transient.DebugSkelMeshComponent_13) - call TermArticulated first.
+[2016.12.30-09.21.09:126][621]LogObjectTools:Warning: ForceReplaceReferences replaced references for a transient object 'REINST_BP_WarriorPawn_C_106' or package '/Engine/Transient'.
+[2016.12.30-09.21.09:126][621]LogObjectTools:Warning: ForceReplaceReferences replaced references for a transient object 'REINST_SKEL_BP_WarriorPawn_C_115' or package '/Engine/Transient'.
+[2016.12.30-09.21.09:126][621]LogObjectTools:Warning: ForceReplaceReferences replaced references for a transient object 'REINST_BP_WarriorPawn_C_114' or package '/Engine/Transient'.
+[2016.12.30-09.21.09:126][621]LogObjectTools:Warning: ForceReplaceReferences replaced references for a transient object 'DEADCLASS_BP_WarriorPawn_C_1' or package '/Engine/Transient'.
+[2016.12.30-09.21.09:126][621]LogObjectTools:Warning: ForceReplaceReferences replaced references for a transient object 'DEADCLASS_BP_WarriorPawn_C_0' or package '/Engine/Transient'.
+[2016.12.30-09.21.43:541][242]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2016.12.30-09.21.43:906][285]Cmd: TRANSACTION UNDO
+[2016.12.30-09.21.43:906][285]LogEditorTransaction: Undo 액터 클릭
+[2016.12.30-09.22.22:095][ 16]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ToyCow/BP_WarriorPawn" FILE="D:/CodeRepository/UnrealDemo/studyURE/Content/ToyCow/BP_WarriorPawn.uasset" SILENT=true
+[2016.12.30-09.22.22:103][ 16]LogSavePackage: Save=5.17ms
+[2016.12.30-09.22.22:103][ 16]LogSavePackage: Moving 'D:/CodeRepository/UnrealDemo/studyURE/Saved/BP_WarriorPawn2F398AFE4A1CFF0B4D9D13BF1EA99A9E.tmp' to 'D:/CodeRepository/UnrealDemo/studyURE/Content/ToyCow/BP_WarriorPawn.uasset'
+[2016.12.30-09.22.22:103][ 16]LogSavePackage:Display: Finished SavePackage D:/CodeRepository/UnrealDemo/studyURE/Content/ToyCow/BP_WarriorPawn.uasset
+[2016.12.30-09.22.33:012][209]Cmd: QUIT_EDITOR
+[2016.12.30-09.22.33:895][209]LogWindowsTextInputMethodSystem:Display: IME system now activated using TSF (Microsoft 입력기).
+[2016.12.30-09.22.33:914][209]LogExit: Preparing to exit.
+[2016.12.30-09.22.34:802][209]LogExit: Editor shut down
+[2016.12.30-09.22.34:802][209]LogExit: Transaction tracking system shut down
+[2016.12.30-09.22.34:931][209]LogObj: Freed 0b from 0 cluster array pools.
+[2016.12.30-09.22.34:931][209]LogExit: Object subsystem successfully closed.
+[2016.12.30-09.22.34:946][209]LogD3D11RHI: Shutdown
+[2016.12.30-09.22.34:946][209]LogD3D11RHI: CleanupD3DDevice
+[2016.12.30-09.22.35:070][209]LogD3D11RHI: ~FD3D11DynamicRHI
+[2016.12.30-09.22.35:086][209]LogHttp:Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2016.12.30-09.22.35:086][209]LogHttp:Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BF4F01DF4-48DA-20F3-D3B4-09AD1DDA6064%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.14.1-3224400%2B%2B%2BUE4%2BRelease-4.14&UserID=6df0f831431203948dbc168f79febe84%7C4dab9e59979d4e6dbb949b919f832447%7Ca64f6bbb-ae2b-4435-9ddc-f379ca2200c4&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2016.12.30-09.22.35:094][209]LogModuleManager: Shutting down and abandoning module AnimationEditor (249)
+[2016.12.30-09.22.35:094][209]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (248)
+[2016.12.30-09.22.35:094][209]LogModuleManager: Shutting down and abandoning module SkeletonEditor (247)
+[2016.12.30-09.22.35:094][209]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (246)
+[2016.12.30-09.22.35:094][209]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (245)
+[2016.12.30-09.22.35:094][209]LogModuleManager: Shutting down and abandoning module BlueprintGraph (244)
+[2016.12.30-09.22.35:094][209]LogModuleManager: Shutting down and abandoning module BlueprintProfiler (243)
+[2016.12.30-09.22.35:096][209]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (242)
+[2016.12.30-09.22.35:096][209]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (241)
+[2016.12.30-09.22.35:097][209]LogModuleManager: Shutting down and abandoning module CrashTracker (240)
+[2016.12.30-09.22.35:097][209]LogModuleManager: Shutting down and abandoning module SceneOutliner (239)
+[2016.12.30-09.22.35:097][209]LogModuleManager: Shutting down and abandoning module WidgetCarousel (238)
+[2016.12.30-09.22.35:097][209]LogModuleManager: Shutting down and abandoning module AddContentDialog (237)
+[2016.12.30-09.22.35:097][209]LogDirectoryWatcher: A directory notification for 'C:/Program Files (x86)/Epic Games/4.14/FeaturePacks/' was aborted.
+[2016.12.30-09.22.35:097][209]LogModuleManager: Shutting down and abandoning module GameplayTags (236)
+[2016.12.30-09.22.35:097][209]LogModuleManager: Shutting down and abandoning module EditorWidgets (235)
+[2016.12.30-09.22.35:097][209]LogModuleManager: Shutting down and abandoning module CollectionManager (234)
+[2016.12.30-09.22.35:097][209]LogDirectoryWatcher: A directory notification for 'D:/CodeRepository/UnrealDemo/studyURE/Content/Collections/' was aborted.
+[2016.12.30-09.22.35:097][209]LogDirectoryWatcher: A directory notification for 'D:/CodeRepository/UnrealDemo/studyURE/Content/Developers/Administrator/Collections/' was aborted.
+[2016.12.30-09.22.35:097][209]LogDirectoryWatcher: A directory notification for 'D:/CodeRepository/UnrealDemo/studyURE/Saved/Collections/' was aborted.
+[2016.12.30-09.22.35:098][209]LogModuleManager: Shutting down and abandoning module StatsViewer (233)
+[2016.12.30-09.22.35:098][209]LogModuleManager: Shutting down and abandoning module FoliageEdit (232)
+[2016.12.30-09.22.35:098][209]LogModuleManager: Shutting down and abandoning module LandscapeEditor (231)
+[2016.12.30-09.22.35:098][209]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (230)
+[2016.12.30-09.22.35:098][209]LogModuleManager: Shutting down and abandoning module ActorPickerMode (229)
+[2016.12.30-09.22.35:098][209]LogModuleManager: Shutting down and abandoning module GeometryMode (228)
+[2016.12.30-09.22.35:098][209]LogModuleManager: Shutting down and abandoning module TextureAlignMode (227)
+[2016.12.30-09.22.35:098][209]LogModuleManager: Shutting down and abandoning module BspMode (226)
+[2016.12.30-09.22.35:098][209]LogModuleManager: Shutting down and abandoning module HardwareSurvey (225)
+[2016.12.30-09.22.35:098][209]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (224)
+[2016.12.30-09.22.35:098][209]LogModuleManager: Shutting down and abandoning module AutomationWorker (223)
+[2016.12.30-09.22.35:098][209]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (222)
+[2016.12.30-09.22.35:098][209]LogModuleManager: Shutting down and abandoning module PlacementMode (221)
+[2016.12.30-09.22.35:098][209]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (220)
+[2016.12.30-09.22.35:098][209]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (219)
+[2016.12.30-09.22.35:098][209]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (218)
+[2016.12.30-09.22.35:098][209]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (217)
+[2016.12.30-09.22.35:098][209]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (216)
+[2016.12.30-09.22.35:098][209]LogModuleManager: Shutting down and abandoning module Media (215)
+[2016.12.30-09.22.35:098][209]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (214)
+[2016.12.30-09.22.35:098][209]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (213)
+[2016.12.30-09.22.35:098][209]LogModuleManager: Shutting down and abandoning module CharacterAI (212)
+[2016.12.30-09.22.35:098][209]LogModuleManager: Shutting down and abandoning module SequenceRecorder (211)
+[2016.12.30-09.22.35:098][209]LogModuleManager: Shutting down and abandoning module AudioCapture (210)
+[2016.12.30-09.22.35:098][209]LogModuleManager: Shutting down and abandoning module SmartSnapping (209)
+[2016.12.30-09.22.35:098][209]LogModuleManager: Shutting down and abandoning module SessionServices (208)
+[2016.12.30-09.22.35:098][209]LogModuleManager: Shutting down and abandoning module ViewportSnapping (207)
+[2016.12.30-09.22.35:098][209]LogModuleManager: Shutting down and abandoning module ViewportInteraction (206)
+[2016.12.30-09.22.35:098][209]LogModuleManager: Shutting down and abandoning module LogVisualizer (205)
+[2016.12.30-09.22.35:098][209]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (204)
+[2016.12.30-09.22.35:098][209]LogModuleManager: Shutting down and abandoning module IntroTutorials (203)
+[2016.12.30-09.22.35:098][209]LogModuleManager: Shutting down and abandoning module EditorLiveStreaming (202)
+[2016.12.30-09.22.35:098][209]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (201)
+[2016.12.30-09.22.35:098][209]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (200)
+[2016.12.30-09.22.35:098][209]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (199)
+[2016.12.30-09.22.35:695][209]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (198)
+[2016.12.30-09.22.35:695][209]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (197)
+[2016.12.30-09.22.35:695][209]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (196)
+[2016.12.30-09.22.35:695][209]LogModuleManager: Shutting down and abandoning module InputBindingEditor (195)
+[2016.12.30-09.22.35:695][209]LogModuleManager: Shutting down and abandoning module NiagaraEditor (194)
+[2016.12.30-09.22.35:695][209]LogModuleManager: Shutting down and abandoning module MergeActors (193)
+[2016.12.30-09.22.35:695][209]LogModuleManager: Shutting down and abandoning module SizeMap (192)
+[2016.12.30-09.22.35:695][209]LogModuleManager: Shutting down and abandoning module TreeMap (191)
+[2016.12.30-09.22.35:695][209]LogModuleManager: Shutting down and abandoning module ReferenceViewer (190)
+[2016.12.30-09.22.35:695][209]LogModuleManager: Shutting down and abandoning module LocalizationService (189)
+[2016.12.30-09.22.35:695][209]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (188)
+[2016.12.30-09.22.35:695][209]LogModuleManager: Shutting down and abandoning module HardwareTargeting (187)
+[2016.12.30-09.22.35:695][209]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (186)
+[2016.12.30-09.22.35:695][209]LogModuleManager: Shutting down and abandoning module UndoHistory (185)
+[2016.12.30-09.22.35:695][209]LogModuleManager: Shutting down and abandoning module UserFeedback (184)
+[2016.12.30-09.22.35:695][209]LogModuleManager: Shutting down and abandoning module XmlParser (183)
+[2016.12.30-09.22.35:695][209]LogModuleManager: Shutting down and abandoning module Blutility (182)
+[2016.12.30-09.22.35:695][209]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (181)
+[2016.12.30-09.22.35:695][209]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (180)
+[2016.12.30-09.22.35:695][209]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (179)
+[2016.12.30-09.22.35:695][209]LogModuleManager: Shutting down and abandoning module SettingsEditor (178)
+[2016.12.30-09.22.35:695][209]LogModuleManager: Shutting down and abandoning module ProjectLauncher (177)
+[2016.12.30-09.22.35:695][209]LogModuleManager: Shutting down and abandoning module SessionFrontend (176)
+[2016.12.30-09.22.35:695][209]LogModuleManager: Shutting down and abandoning module ProfilerClient (175)
+[2016.12.30-09.22.35:695][209]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (174)
+[2016.12.30-09.22.35:695][209]LogModuleManager: Shutting down and abandoning module DeviceManager (173)
+[2016.12.30-09.22.35:739][209]LogModuleManager: Shutting down and abandoning module AutomationController (172)
+[2016.12.30-09.22.35:739][209]LogModuleManager: Shutting down and abandoning module AutomationWindow (171)
+[2016.12.30-09.22.35:739][209]LogModuleManager: Shutting down and abandoning module Layers (170)
+[2016.12.30-09.22.35:739][209]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (169)
+[2016.12.30-09.22.35:739][209]LogModuleManager: Shutting down and abandoning module DetailCustomizations (168)
+[2016.12.30-09.22.35:739][209]LogModuleManager: Shutting down and abandoning module PackagesDialog (167)
+[2016.12.30-09.22.35:739][209]LogModuleManager: Shutting down and abandoning module AnimGraph (166)
+[2016.12.30-09.22.35:739][209]LogModuleManager: Shutting down and abandoning module Persona (165)
+[2016.12.30-09.22.35:739][209]LogModuleManager: Shutting down and abandoning module Kismet (164)
+[2016.12.30-09.22.35:744][209]LogModuleManager: Shutting down and abandoning module GraphEditor (163)
+[2016.12.30-09.22.35:744][209]LogModuleManager: Shutting down and abandoning module ClassViewer (162)
+[2016.12.30-09.22.35:745][209]LogModuleManager: Shutting down and abandoning module Toolbox (161)
+[2016.12.30-09.22.35:745][209]LogModuleManager: Shutting down and abandoning module ModuleUI (160)
+[2016.12.30-09.22.35:745][209]LogModuleManager: Shutting down and abandoning module MovieSceneTools (159)
+[2016.12.30-09.22.35:745][209]LogModuleManager: Shutting down and abandoning module OutputLog (158)
+[2016.12.30-09.22.35:745][209]LogModuleManager: Shutting down and abandoning module GammaUI (157)
+[2016.12.30-09.22.35:745][209]LogModuleManager: Shutting down and abandoning module Documentation (156)
+[2016.12.30-09.22.35:746][209]LogModuleManager: Shutting down and abandoning module Niagara (155)
+[2016.12.30-09.22.35:746][209]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (154)
+[2016.12.30-09.22.35:746][209]LogModuleManager: Shutting down and abandoning module AnalyticsET (153)
+[2016.12.30-09.22.35:746][209]LogModuleManager: Shutting down and abandoning module PortalServices (152)
+[2016.12.30-09.22.35:746][209]LogModuleManager: Shutting down and abandoning module PortalRpc (151)
+[2016.12.30-09.22.35:746][209]LogModuleManager: Shutting down and abandoning module MessagingRpc (150)
+[2016.12.30-09.22.35:746][209]LogModuleManager: Shutting down and abandoning module GameplayDebugger (149)
+[2016.12.30-09.22.35:746][209]LogModuleManager: Shutting down and abandoning module AITestSuite (148)
+[2016.12.30-09.22.35:746][209]LogModuleManager: Shutting down and abandoning module AIModule (147)
+[2016.12.30-09.22.35:746][209]LogModuleManager: Shutting down and abandoning module ProfilerService (146)
+[2016.12.30-09.22.35:874][209]LogModuleManager: Shutting down and abandoning module TaskGraph (145)
+[2016.12.30-09.22.35:874][209]LogModuleManager: Shutting down and abandoning module SlateRemote (144)
+[2016.12.30-09.22.35:874][209]LogModuleManager: Shutting down and abandoning module SteamVRController (143)
+[2016.12.30-09.22.35:874][209]LogModuleManager: Shutting down and abandoning module SteamVR (142)
+[2016.12.30-09.22.35:874][209]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (141)
+[2016.12.30-09.22.35:874][209]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (140)
+[2016.12.30-09.22.35:874][209]LogModuleManager: Shutting down and abandoning module OculusLibrary (139)
+[2016.12.30-09.22.35:874][209]LogModuleManager: Shutting down and abandoning module OculusInput (138)
+[2016.12.30-09.22.35:874][209]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (137)
+[2016.12.30-09.22.35:874][209]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (136)
+[2016.12.30-09.22.35:874][209]LogModuleManager: Shutting down and abandoning module CableComponent (135)
+[2016.12.30-09.22.35:874][209]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (134)
+[2016.12.30-09.22.35:874][209]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (132)
+[2016.12.30-09.22.35:874][209]LogModuleManager: Shutting down and abandoning module HTML5Networking (131)
+[2016.12.30-09.22.35:874][209]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (130)
+[2016.12.30-09.22.35:874][209]LogModuleManager: Shutting down and abandoning module GeometryCache (129)
+[2016.12.30-09.22.35:874][209]LogModuleManager: Shutting down and abandoning module AlembicLibrary (128)
+[2016.12.30-09.22.35:874][209]LogModuleManager: Shutting down and abandoning module AlembicImporter (127)
+[2016.12.30-09.22.35:874][209]LogModuleManager: Shutting down and abandoning module SuperSearch (126)
+[2016.12.30-09.22.35:874][209]LogModuleManager: Shutting down and abandoning module SuperSearchEditor (125)
+[2016.12.30-09.22.35:874][209]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (124)
+[2016.12.30-09.22.35:874][209]LogModuleManager: Shutting down and abandoning module PluginBrowser (123)
+[2016.12.30-09.22.35:874][209]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (122)
+[2016.12.30-09.22.35:874][209]LogModuleManager: Shutting down and abandoning module EpicSurvey (121)
+[2016.12.30-09.22.35:874][209]LogModuleManager: Shutting down and abandoning module DesktopPlatform (120)
+[2016.12.30-09.22.35:874][209]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (119)
+[2016.12.30-09.22.35:874][209]LogModuleManager: Shutting down and abandoning module UObjectPlugin (118)
+[2016.12.30-09.22.35:874][209]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (117)
+[2016.12.30-09.22.35:874][209]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (116)
+[2016.12.30-09.22.35:874][209]LogModuleManager: Shutting down and abandoning module SourceControl (115)
+[2016.12.30-09.22.35:875][209]LogModuleManager: Shutting down and abandoning module GitSourceControl (114)
+[2016.12.30-09.22.35:875][209]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (113)
+[2016.12.30-09.22.35:875][209]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (112)
+[2016.12.30-09.22.35:875][209]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (111)
+[2016.12.30-09.22.35:875][209]LogModuleManager: Shutting down and abandoning module MeshPaint (110)
+[2016.12.30-09.22.35:875][209]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (109)
+[2016.12.30-09.22.35:875][209]LogModuleManager: Shutting down and abandoning module HotReload (108)
+[2016.12.30-09.22.35:875][209]LogModuleManager: Shutting down and abandoning module MainFrame (107)
+[2016.12.30-09.22.35:875][209]LogModuleManager: Shutting down and abandoning module LevelEditor (106)
+[2016.12.30-09.22.35:876][209]LogModuleManager: Shutting down and abandoning module ContentBrowser (105)
+[2016.12.30-09.22.35:876][209]LogModuleManager: Shutting down and abandoning module Paper2DEditor (104)
+[2016.12.30-09.22.35:876][209]LogModuleManager: Shutting down and abandoning module UdpMessaging (103)
+[2016.12.30-09.22.35:978][209]LogModuleManager: Shutting down and abandoning module TcpMessaging (102)
+[2016.12.30-09.22.36:078][209]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (101)
+[2016.12.30-09.22.36:078][209]LogModuleManager: Shutting down and abandoning module Paper2D (100)
+[2016.12.30-09.22.36:078][209]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (99)
+[2016.12.30-09.22.36:078][209]LogModuleManager: Shutting down and abandoning module WmfMedia (98)
+[2016.12.30-09.22.36:078][209]LogModuleManager: Shutting down and abandoning module MediaAssets (97)
+[2016.12.30-09.22.36:078][209]LogModuleManager: Shutting down and abandoning module GameLiveStreaming (96)
+[2016.12.30-09.22.36:078][209]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (95)
+[2016.12.30-09.22.36:078][209]LogModuleManager: Shutting down and abandoning module VREditor (94)
+[2016.12.30-09.22.36:078][209]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (93)
+[2016.12.30-09.22.36:078][209]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (92)
+[2016.12.30-09.22.36:078][209]LogModuleManager: Shutting down and abandoning module FunctionalTesting (91)
+[2016.12.30-09.22.36:078][209]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (90)
+[2016.12.30-09.22.36:078][209]LogModuleManager: Shutting down and abandoning module Sequencer (89)
+[2016.12.30-09.22.36:079][209]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (88)
+[2016.12.30-09.22.36:079][209]LogModuleManager: Shutting down and abandoning module MessageLog (87)
+[2016.12.30-09.22.36:079][209]LogModuleManager: Shutting down and abandoning module AssetTools (86)
+[2016.12.30-09.22.36:079][209]LogModuleManager: Shutting down and abandoning module UMGEditor (85)
+[2016.12.30-09.22.36:079][209]LogModuleManager: Shutting down and abandoning module UMG (84)
+[2016.12.30-09.22.36:079][209]LogModuleManager: Shutting down and abandoning module SlateReflector (83)
+[2016.12.30-09.22.36:079][209]LogModuleManager: Shutting down and abandoning module Slate (82)
+[2016.12.30-09.22.36:079][209]LogModuleManager: Shutting down and abandoning module EditorStyle (81)
+[2016.12.30-09.22.36:083][209]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (80)
+[2016.12.30-09.22.36:083][209]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (79)
+[2016.12.30-09.22.36:083][209]LogModuleManager: Shutting down and abandoning module XAudio2 (78)
+[2016.12.30-09.22.36:083][209]LogModuleManager: Shutting down and abandoning module Networking (76)
+[2016.12.30-09.22.36:083][209]LogModuleManager: Shutting down and abandoning module Core (75)
+[2016.12.30-09.22.36:083][209]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (74)
+[2016.12.30-09.22.36:083][209]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2016.12.30-09.22.36:083][209]LogDirectoryWatcher: A directory notification for 'D:/CodeRepository/UnrealDemo/studyURE/Content/' was aborted.
+[2016.12.30-09.22.36:083][209]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2016.12.30-09.22.36:084][209]LogModuleManager: Shutting down and abandoning module AssetRegistry (73)
+[2016.12.30-09.22.36:258][209]LogModuleManager: Shutting down and abandoning module KismetCompiler (72)
+[2016.12.30-09.22.36:258][209]LogModuleManager: Shutting down and abandoning module PhysXFormats (71)
+[2016.12.30-09.22.36:258][209]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (70)
+[2016.12.30-09.22.36:258][209]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (69)
+[2016.12.30-09.22.36:258][209]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (68)
+[2016.12.30-09.22.36:258][209]LogModuleManager: Shutting down and abandoning module PropertyEditor (67)
+[2016.12.30-09.22.36:258][209]LogModuleManager: Shutting down and abandoning module MeshUtilities (66)
+[2016.12.30-09.22.36:258][209]LogModuleManager: Shutting down and abandoning module DerivedDataCache (65)
+[2016.12.30-09.22.36:283][209]LogDerivedDataCache: Shutdown
+[2016.12.30-09.22.36:283][209]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (64)
+[2016.12.30-09.22.36:283][209]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (63)
+[2016.12.30-09.22.36:283][209]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (62)
+[2016.12.30-09.22.36:283][209]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (61)
+[2016.12.30-09.22.36:283][209]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (60)
+[2016.12.30-09.22.36:283][209]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (59)
+[2016.12.30-09.22.36:283][209]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (58)
+[2016.12.30-09.22.36:283][209]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (57)
+[2016.12.30-09.22.36:283][209]LogModuleManager: Shutting down and abandoning module ImageWrapper (56)
+[2016.12.30-09.22.36:283][209]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (55)
+[2016.12.30-09.22.36:283][209]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (54)
+[2016.12.30-09.22.36:283][209]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (53)
+[2016.12.30-09.22.36:283][209]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (52)
+[2016.12.30-09.22.36:283][209]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (51)
+[2016.12.30-09.22.36:283][209]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (50)
+[2016.12.30-09.22.36:283][209]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (49)
+[2016.12.30-09.22.36:283][209]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (48)
+[2016.12.30-09.22.36:283][209]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (47)
+[2016.12.30-09.22.36:283][209]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (46)
+[2016.12.30-09.22.36:283][209]LogModuleManager: Shutting down and abandoning module Messaging (45)
+[2016.12.30-09.22.36:283][209]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (44)
+[2016.12.30-09.22.36:283][209]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (43)
+[2016.12.30-09.22.36:283][209]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (42)
+[2016.12.30-09.22.36:283][209]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (41)
+[2016.12.30-09.22.36:283][209]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (40)
+[2016.12.30-09.22.36:283][209]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (39)
+[2016.12.30-09.22.36:283][209]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (38)
+[2016.12.30-09.22.36:283][209]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (37)
+[2016.12.30-09.22.36:283][209]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (36)
+[2016.12.30-09.22.36:283][209]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (35)
+[2016.12.30-09.22.36:283][209]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (34)
+[2016.12.30-09.22.36:283][209]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (33)
+[2016.12.30-09.22.36:283][209]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (32)
+[2016.12.30-09.22.36:283][209]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (31)
+[2016.12.30-09.22.36:283][209]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (30)
+[2016.12.30-09.22.36:283][209]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (29)
+[2016.12.30-09.22.36:283][209]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (28)
+[2016.12.30-09.22.36:283][209]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (27)
+[2016.12.30-09.22.36:283][209]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (26)
+[2016.12.30-09.22.36:283][209]LogModuleManager: Shutting down and abandoning module TargetPlatform (25)
+[2016.12.30-09.22.36:283][209]LogModuleManager: Shutting down and abandoning module InputCore (24)
+[2016.12.30-09.22.36:283][209]LogModuleManager: Shutting down and abandoning module Settings (23)
+[2016.12.30-09.22.36:283][209]LogModuleManager: Shutting down and abandoning module OculusRift (22)
+[2016.12.30-09.22.36:283][209]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (21)
+[2016.12.30-09.22.36:283][209]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (20)
+[2016.12.30-09.22.36:283][209]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (18)
+[2016.12.30-09.22.36:283][209]LogOnline:Display: Unloading online subsystem: NULL
+[2016.12.30-09.22.36:283][209]LogModuleManager: Shutting down and abandoning module SSL (17)
+[2016.12.30-09.22.36:284][209]LogModuleManager: Shutting down and abandoning module HTTP (16)
+[2016.12.30-09.22.36:284][209]LogModuleManager: Shutting down and abandoning module XMPP (15)
+[2016.12.30-09.22.36:284][209]LogModuleManager: Shutting down and abandoning module TextureCompressor (14)
+[2016.12.30-09.22.36:284][209]LogModuleManager: Shutting down and abandoning module ShaderCore (13)
+[2016.12.30-09.22.36:284][209]LogModuleManager: Shutting down and abandoning module Landscape (12)
+[2016.12.30-09.22.36:284][209]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (11)
+[2016.12.30-09.22.36:286][209]LogModuleManager: Shutting down and abandoning module OpenGLDrv (10)
+[2016.12.30-09.22.36:286][209]LogModuleManager: Shutting down and abandoning module D3D11RHI (9)
+[2016.12.30-09.22.36:286][209]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (8)
+[2016.12.30-09.22.36:286][209]LogModuleManager: Shutting down and abandoning module Renderer (7)
+[2016.12.30-09.22.36:286][209]LogModuleManager: Shutting down and abandoning module Engine (6)
+[2016.12.30-09.22.36:286][209]LogModuleManager: Shutting down and abandoning module CoreUObject (5)
+[2016.12.30-09.22.36:286][209]LogModuleManager: Shutting down and abandoning module NetworkFile (4)
+[2016.12.30-09.22.36:286][209]LogModuleManager: Shutting down and abandoning module StreamingFile (3)
+[2016.12.30-09.22.36:286][209]LogModuleManager: Shutting down and abandoning module SandboxFile (2)
+[2016.12.30-09.22.36:286][209]LogModuleManager: Shutting down and abandoning module PakFile (1)
+[2016.12.30-09.22.36:288][209]LogExit: Exiting.
+[2016.12.30-09.22.36:295][209]Log file closed, 12/30/16 18:22:36
